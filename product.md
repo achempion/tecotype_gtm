@@ -236,6 +236,7 @@ capabilities.
 
 - [Positioning](./positioning.md)
 - [Pricing](./pricing.md)
+- [Traffic](./traffic.md)
 - [Project source](../tecotype)
 - [Technical overview](../tecotype/README.md)
 - [Product and release status](../tecotype/architecture/README.md)

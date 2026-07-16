@@ -352,6 +352,7 @@ provide the same product and feature set.
 
 - [Product description](./product.md)
 - [Pricing](./pricing.md)
+- [Traffic](./traffic.md)
 - [Project source](../tecotype)
 - [Keyboard-first architecture](../tecotype/architecture/keyboard-first.md)
 - [Search](../tecotype/architecture/search.md)
