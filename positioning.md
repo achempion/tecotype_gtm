@@ -297,6 +297,28 @@ Marketing should not currently say:
 - "Available everywhere." Distribution is currently Mac-first.
 - Any unverified performance, privacy, or resource claim.
 
+## Pricing position
+
+Tecotype Individual costs €15 per month or €149 per year. The annual plan is
+the primary offer.
+
+This price places Tecotype as a serious professional tool. It should not be
+positioned as a bargain alternative to a default email client or as an
+enterprise productivity suite. The price is supported by the complete
+experience of calm control, keyboard speed, local operation, Better search, and
+precise organization.
+
+Public pricing should state the annual commitment directly:
+
+```text
+€149 per year
+or €15 per month
+```
+
+Do not lead with an annualized monthly equivalent, manufacture urgency, or use
+unverified time-saved claims to justify the price. Monthly and annual billing
+provide the same product and feature set.
+
 ## The never list
 
 - Hype, superlatives, exclamation marks, and emoji in copy.
@@ -329,6 +351,7 @@ Marketing should not currently say:
 ## Related documents
 
 - [Product description](./product.md)
+- [Pricing](./pricing.md)
 - [Project source](../tecotype)
 - [Keyboard-first architecture](../tecotype/architecture/keyboard-first.md)
 - [Search](../tecotype/architecture/search.md)

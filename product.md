@@ -223,7 +223,7 @@ Important work still includes:
 
 - First-run and no-account onboarding.
 - Validation of the audience and positioning.
-- Pricing, licensing, and payment flows.
+- Licensing and payment flows for the decided Individual price.
 - The public website and acquisition experience.
 - Continued compose and sending polish.
 - Broader distribution beyond the current Mac-first release.
@@ -235,6 +235,7 @@ capabilities.
 ## Related documents
 
 - [Positioning](./positioning.md)
+- [Pricing](./pricing.md)
 - [Project source](../tecotype)
 - [Technical overview](../tecotype/README.md)
 - [Product and release status](../tecotype/architecture/README.md)
