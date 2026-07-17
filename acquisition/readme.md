@@ -139,7 +139,7 @@ competitors within each wave are listed in the suggested research order.
 
 - [x] [Tatem](./tatem/readme.md): historical community, waitlist, and design-gallery acquisition
 - [x] [Quartz](./quartz/readme.md): public-beta launch, download funnel, and close focus/privacy overlap
-- [ ] [Carbon Mail](https://www.carbonmail.app/): founder-led community acquisition and reported retention difficulty
+- [x] [Carbon Mail](./carbon-mail/readme.md): founder-led community discovery and reported retention difficulty
 - [ ] [Mimestream](https://mimestream.com/blog/mimestream-launches): independent Mac-client path from public beta to a paid product
 - [ ] [ZenMail](https://usezenmail.com/): closest calm, keyboard-first, local-AI positioning overlap; research when its private-beta funnel is more observable
 - [ ] [Epistles](https://epistles.com/): shipping local-first client with broad provider support and visible pricing
