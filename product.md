@@ -2,7 +2,7 @@
 
 Status: Working product description
 
-Last reviewed: 2026-07-16
+Last reviewed: 2026-07-17
 
 ## In one sentence
 
@@ -228,9 +228,9 @@ Important work still includes:
 - Continued compose and sending polish.
 - Broader distribution beyond the current Mac-first release.
 
-MCP integration, broader local intelligence, and agent-driven automation are
-future directions. They should not be presented as current product
-capabilities.
+A local automation command API, MCP integration, broader local intelligence,
+and agent-driven automation are future directions. They should not be
+presented as current product capabilities.
 
 ## Related documents
 
