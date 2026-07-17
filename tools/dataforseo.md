@@ -54,7 +54,11 @@ DataForSEO requires a $50 minimum account payment, while API usage is pay-as-you
 
 ### Planning estimate
 
-Budget **$0.25 per competitor**. A useful first pass in one market should usually cost approximately **$0.12–$0.20**, depending on returned rows and Standard versus Live SERPs.
+Budget **$2 per competitor** unless the user sets another limit. A useful
+first pass in one market should usually cost approximately **$0.12–$0.20**,
+depending on returned rows and Standard versus Live SERPs. Track and reconcile
+every task, including retries and earlier passes; the typical first-pass cost
+is a planning estimate, not a separate cap.
 
 | Call | Assumption | Maximum cost |
 | --- | ---: | ---: |

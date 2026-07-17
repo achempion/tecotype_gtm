@@ -12,10 +12,12 @@ Quartz is a young, changing product. Its private-beta page was captured in May
 page has already revised the headline and added a short demonstration. Results
 below describe this launch period, not a mature acquisition system.
 
-This report completes the unauthenticated public research path through the
-downloaded app artifact. The app was not launched and Gmail authorization was
-not granted. Post-install onboarding and activation are reconstructed from
-first-party material and static artifacts, not manually verified.
+This report completes the unauthenticated public research path through a
+previously downloaded app artifact. The app was not launched or installed and
+Gmail authorization was not granted. The temporary disk image was removed on
+2026-07-17 after the user clarified a no-client-download research boundary.
+Post-install onboarding and activation are reconstructed from first-party
+material and static artifacts, not manually verified.
 
 ## Executive answer
 

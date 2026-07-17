@@ -71,7 +71,7 @@ above.
 | `/download` | HEAD request | 307 to versioned v0.1.88 Apple Silicon DMG |
 | Versioned DMG | HEAD request | 15,628,612 bytes; last modified June 27 |
 | Update manifest | Public JSON | v0.1.88; published June 27 |
-| App bundle | DMG mounted read-only; bundle inspected | arm64 app metadata, identifier, minimum macOS, signing, notarization, and static model reference; app not launched |
+| App bundle | DMG mounted read-only before the no-client-download boundary was clarified; temporary file removed on 2026-07-17 | arm64 app metadata, identifier, minimum macOS, signing, notarization, and static model reference; app not launched or installed |
 | Robots and sitemap | Public GET | `/ingest/` disallowed; four indexable sitemap URLs |
 | Wayback CDX | Public index request | Distinct May 23 and June 17 landing-page captures |
 | Archived pages | Rendered browser capture | Private waitlist and public launch funnels |

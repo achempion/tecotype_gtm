@@ -116,16 +116,16 @@ AI-tool directory or search discovery
 
 ## Channel scorecard
 
-| Channel | Observed activity | Downstream signal | Contrary evidence or limitation | Verdict | Confidence |
-| --- | --- | --- | --- | --- | --- |
-| Founder/compliance story | Two early Reddit posts; strongest scored +19 | Access and funding interest in comments | First funnel had mobile, waitlist, and demo failures; target-user quality unknown | Best visible attention, not acquisition proof | Medium-high |
-| Beta Reddit posts | At least six live copies and four removed/filtered submissions | One post now ranks for a category query | Low single-digit scores, repeated copy, no source attribution | Discoverability signal; weak launch evidence | High for activity |
-| Organic search | Exact-brand rank 1; founder post category rank 2 | Homepage and Reddit visibility | Labs returned no domain items; no product-domain result for two tested non-brand queries | Brand capture plus a narrow community/search intersection | High for captured SERPs |
-| AI directory | One published entry; four indexed backlinks from one domain | Live dofollow link | No visits, signups, or independent validation | Presence only | High |
-| X | Founder said “Reddit + X so far”; metadata names `@carbonmail` | None visible | No direct indexed post found | Self-reported only | Low |
-| Paid search | Founder said $0 spent; no Google advertiser or creative result | None | Other identities, markets, dates, and networks remain possible | Not evidenced | Medium-low |
-| Product Hunt, HN, LinkedIn | No relevant result in narrow public checks | None | Search coverage is incomplete | Not observed | Low |
-| Partnerships and referrals | Offers of help in comments | No completed arrangement | No program, partner, or attributed user | Not evidenced | Low |
+| Channel                    | Observed activity                                              | Downstream signal                       | Contrary evidence or limitation                                                          | Verdict                                                   | Confidence              |
+| -------------------------- | -------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------- |
+| Founder/compliance story   | Two early Reddit posts; strongest scored +19                   | Access and funding interest in comments | First funnel had mobile, waitlist, and demo failures; target-user quality unknown        | Best visible attention, not acquisition proof             | Medium-high             |
+| Beta Reddit posts          | At least six live copies and four removed/filtered submissions | One post now ranks for a category query | Low single-digit scores, repeated copy, no source attribution                            | Discoverability signal; weak launch evidence              | High for activity       |
+| Organic search             | Exact-brand rank 1; founder post category rank 2               | Homepage and Reddit visibility          | Labs returned no domain items; no product-domain result for two tested non-brand queries | Brand capture plus a narrow community/search intersection | High for captured SERPs |
+| AI directory               | One published entry; four indexed backlinks from one domain    | Live dofollow link                      | No visits, signups, or independent validation                                            | Presence only                                             | High                    |
+| X                          | Founder said “Reddit + X so far”; metadata names `@carbonmail` | None visible                            | No direct indexed post found                                                             | Self-reported only                                        | Low                     |
+| Paid search                | Founder said $0 spent; no Google advertiser or creative result | None                                    | Other identities, markets, dates, and networks remain possible                           | Not evidenced                                             | Medium-low              |
+| Product Hunt, HN, LinkedIn | No relevant result in narrow public checks                     | None                                    | Search coverage is incomplete                                                            | Not observed                                              | Low                     |
+| Partnerships and referrals | Offers of help in comments                                     | No completed arrangement                | No program, partner, or attributed user                                                  | Not evidenced                                             | Low                     |
 
 ## What Carbon tried and changed
 

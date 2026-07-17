@@ -33,7 +33,9 @@ platform split, or activation.
 The Product Hunt launch page replaced the waitlist with a direct download.
 Research followed the path through the public disk image and inspected the
 mounted app bundle without launching it. No third-party app code was executed
-and no Gmail authorization was granted. Everything after the disk-image
+or installed, no Gmail authorization was granted, and the temporary disk image
+was removed on 2026-07-17 after the user clarified a no-client-download
+research boundary. Everything after the disk-image
 boundary below is a reconstruction from Quartz's own policy, maker comments,
 case study, and static app artifacts:
 

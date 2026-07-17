@@ -26,10 +26,14 @@ competitor/
 ├── traffic.md       # search queries, rankings, and landing pages
 ├── referrals.md     # backlinks, communities, and referring sites
 ├── funnel.md        # offer, CTA, signup, activation, and payment
+├── history.md       # positioning, release, and funnel changes over time
+├── opportunities.md # staged Tecotype marketing/distribution experiments and evidence gates
 └── requests.md      # API calls, parameters, results, and limitations
 ```
 
-Add other category files only when the research produces useful evidence. Keep the competitor `readme.md` short and link every conclusion to the detailed file that contains its source and context.
+Add other category files only when the research produces useful evidence. Keep
+the competitor `readme.md` concise and link every conclusion to the detailed
+file that contains its source and context.
 
 Every competitor `readme.md` should conclude with:
 
@@ -122,7 +126,15 @@ The reusable endpoint workflow, request guidance, pricing, and budget model live
 
 ## Stage 3: funnel and experiment
 
-Walk the public path from landing page through signup or download, authorization, onboarding, activation clues, and payment. Then map the strongest evidenced channel into a Tecotype experiment with source tags and a defined activation event.
+Inspect the public path only: landing page, visible signup or download
+destination, public store metadata, stated onboarding, activation clues,
+offer, and payment terms. Do not download, install, mount, open, execute, or
+inspect a competitor client or artifact, and do not create an account, connect
+a mailbox, start a trial, submit a form, or enter checkout. Label the
+unobserved client and commercial stages as stated, inferred, or unobservable.
+Then map the strongest evidenced channel into a Tecotype marketing or
+distribution experiment with source tags and a downstream activation event
+supplied by the working client.
 
 ## Evidence boundary
 
@@ -140,34 +152,43 @@ competitors within each wave are listed in the suggested research order.
 - [x] [Tatem](./tatem/readme.md): historical community, waitlist, and design-gallery acquisition
 - [x] [Quartz](./quartz/readme.md): public-beta launch, download funnel, and close focus/privacy overlap
 - [x] [Carbon Mail](./carbon-mail/readme.md): founder-led community discovery and reported retention difficulty
-- [ ] [Mimestream](https://mimestream.com/blog/mimestream-launches): independent Mac-client path from public beta to a paid product
-- [ ] [ZenMail](https://usezenmail.com/): closest calm, keyboard-first, local-AI positioning overlap; research when its private-beta funnel is more observable
-- [ ] [Epistles](https://epistles.com/): shipping local-first client with broad provider support and visible pricing
-- [ ] [YouniqMail](https://youniqmail.com/): public-beta distribution for a private, customizable, cross-platform IMAP client
-- [ ] [Velo](https://velomail.app/): open-source distribution for a keyboard-first, private Gmail client
-- [ ] [Castellum](https://castellummail.com/): early-access positioning around managers, Gmail plus IMAP, and local AI
-- [ ] [Locker](https://www.inbox.locker/): downloadable local IMAP client with approval-gated automation
+- [x] [Mimestream](./mimestream/readme.md): narrow Gmail-on-Mac positioning, long free beta, independent Mac coverage, and durable category search
+- [x] [ZenMail](./zenmail/readme.md): owned SEO and repeated linked recommendations leading to an unquantified private-beta waitlist
+- [x] [Epistles](./epistles/readme.md): provider-specific community research, broad distribution, early comparison SEO, and visible but unverified paid signals
+- [x] [YouniqMail](./youniqmail/readme.md): broad informational SEO, founder community distribution, direct public beta, and a visible tester-feedback loop
+- [x] [Velo](./velo/readme.md): open-source and AI-built launch attention on Reddit/GitHub, followed by signing, OAuth, update, and attribution friction
+- [x] [Castellum](./castellum/readme.md): clear manager/local-AI positioning and a public build without an evidenced discovery or activation channel
+- [x] [Locker](./locker/readme.md): direct release distribution, claimed free keys, small asset-request counts, and no observed paid conversion
 
-### Wave 2: proven acquisition models
+The cross-client conclusions and recommended Tecotype sequence are in the
+[Wave 1 synthesis](./wave-1.md).
 
-- [ ] [Mailbird](https://www.getmailbird.com/about/): large-scale search, content, comparison, and partner acquisition
-- [ ] [Superhuman Mail](https://superhuman.com/company/about): premium category creation, referrals, and assisted activation
-- [ ] [HEY](https://37signals.com/01): point-of-view marketing, calm positioning, and provider-switching friction
-- [ ] [Shortwave](https://www.shortwave.com/blog/introducing-shortwave/): venture-backed launch, batching, team adoption, and multi-platform expansion
-- [ ] [Canary Mail](https://canarymail.io/): privacy-led positioning combined with broad platform distribution
-- [ ] [Spark](https://sparkmailapp.com/about): long-running freemium and app-store distribution across platforms
-- [ ] [eM Client](https://www.emclient.com/for-companies): provider breadth, business acquisition, and durable desktop distribution
-- [ ] [MailMate](https://freron.com/): durable independent acquisition within a narrow keyboard-and-search niche
+### Wave 2: established clients and visible acquisition surfaces
+
+- [x] [Mailbird](./mailbird/readme.md): provider-help and comparison SEO, current advertising, partners, referrals, stores, and licensing trust risk
+- [x] [Superhuman Mail](./superhuman/readme.md): premium category creation, referrals, guided activation, team expansion, and suite-level attribution limits
+- [x] [HEY](./hey/readme.md): point-of-view marketing, founder-led demonstration, launch attention, and provider-switching friction
+- [x] [Shortwave](./shortwave/readme.md): Google Inbox replacement, recurring launches, taught workflow, AI/team expansion, and product-native sharing surfaces
+- [x] [Canary Mail](./canary-mail/readme.md): broad informational SEO, store presence, privacy/security positioning, and data-flow qualifications
+- [x] [Spark](./spark/readme.md): long-running freemium, stores, Setapp, launches, content, current ads, and dual-client migration risk
+- [x] [eM Client](./em-client/readme.md): provider-help SEO, reseller economics, Postbox migration, advertising, and explicit desktop licensing
+- [x] [MailMate](./mailmate/readme.md): durable independent discovery within a narrow keyboard-and-search niche
+
+The cross-client conclusions and recommended Tecotype sequence are in the
+[Wave 2 synthesis](./wave-2.md).
 
 ### Wave 3: emerging signals, failures, and adjacent models
 
-- [ ] [ReplylessAI](https://www.producthunt.com/products/replylessai): early paid signal from a bootstrapped cross-provider product
-- [ ] [Orchid](https://0.email/about): open-source, GitHub, and community-led distribution
-- [ ] [MonoMail](https://monomail.millosaurs.me/): measurable early downloads for a minimal, open-source mobile client
-- [ ] [Extra](https://www.upstartsmedia.com/p/extra-consumer-ai-email-app-launches): consumer launch and early-beta adoption around a non-chronological inbox
-- [ ] [Airo Mail](https://www.airo.email/): founder-focused positioning and an unusually high visible price for an emerging client
-- [ ] [Notion Mail](https://www.notion.com/help/notion-mail-inbox-is-going-away-what-to-do-next): launch attention without durable primary-inbox adoption
-- [ ] [Newton Mail](https://newtonhq.com/blogs): shutdowns, relaunches, pricing, and the acquisition cost of damaged trust
+- [x] [ReplylessAI](./replyless-ai/readme.md): repeated launches, directories, lifecycle email, and the wave's clearest small verified paid signal without source-to-paid attribution
+- [x] [Orchid](./orchid/readme.md): Zero's open-source and coordinated launch visibility followed by a category, domain, and CTA transition
+- [x] [MonoMail](./monomail/readme.md): founder/community discovery and measurable release downloads without observable activation or payment
+- [x] [Extra](./extra/readme.md): consumer action-first launch, tagged referral and creator routes, recent creatives, and an unmonetized free offer
+- [x] [Airo Mail](./airo-mail/readme.md): conflicting mobile-consumer and solo-founder public variants, concrete workflow evaluation, and no adoption or price validation
+- [x] [Notion Mail](./notion-mail/readme.md): major-brand launch discovery followed by a scheduled September 22, 2026 inbox shutdown and transition intent
+- [x] [Newton Mail](./newton-mail/readme.md): shutdowns, relaunches, brand-led search, public-state conflicts, and persistent trust and alternative-search debt
+
+The cross-client conclusions and recommended marketing sequence are in the
+[Wave 3 synthesis](./wave-3.md).
 
 ## Additional checks
 
