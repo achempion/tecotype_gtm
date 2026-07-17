@@ -138,7 +138,7 @@ competitors within each wave are listed in the suggested research order.
 ### Wave 1: direct and comparable competitors
 
 - [x] [Tatem](./tatem/readme.md): historical community, waitlist, and design-gallery acquisition
-- [ ] [Quartz](https://www.quartzmail.ai/): public-beta launch, download funnel, and close focus/privacy overlap
+- [x] [Quartz](./quartz/readme.md): public-beta launch, download funnel, and close focus/privacy overlap
 - [ ] [Carbon Mail](https://www.carbonmail.app/): founder-led community acquisition and reported retention difficulty
 - [ ] [Mimestream](https://mimestream.com/blog/mimestream-launches): independent Mac-client path from public beta to a paid product
 - [ ] [ZenMail](https://usezenmail.com/): closest calm, keyboard-first, local-AI positioning overlap; research when its private-beta funnel is more observable
