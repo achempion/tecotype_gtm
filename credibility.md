@@ -111,7 +111,10 @@ Ask one shortlisted provider to:
 
 Runbox is the clearest candidate for an existing client-discovery surface; Nubo
 is the values-led pilot; Migadu has strong overlap with developers and
-multi-account operators. These remain research candidates.
+multi-account operators, echoed in recurring [Hacker News](https://news.ycombinator.com/item?id=44525626)
+and [Lobsters](https://lobste.rs/s/bywnqo/what_s_your_email_setup)
+recommendations. This is audience-fit evidence, not endorsement or distribution;
+all three remain research candidates.
 
 Provider-confirmed facts are not a provider endorsement. A link becomes
 distribution only when it creates permanent provider-controlled pre-install
