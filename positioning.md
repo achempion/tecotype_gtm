@@ -2,7 +2,7 @@
 
 Status: Working positioning hypothesis
 
-Last reviewed: 2026-07-16
+Last reviewed: 2026-07-19
 
 This document turns the Better search design report into positioning guidance
 for the broader product. It describes the current hypothesis, not a permanent
@@ -317,7 +317,25 @@ or €15 per month
 
 Do not lead with an annualized monthly equivalent, manufacture urgency, or use
 unverified time-saved claims to justify the price. Monthly and annual billing
-provide the same product and feature set.
+provide the same product and feature set within a purchase channel.
+
+The Mac App Store subscription covers the Store build on macOS. Website
+checkout covers the direct macOS, Windows, and Linux builds. State this platform
+scope plainly, but do not make distribution mechanics the lead message.
+
+## Future market extension
+
+Shared inboxes, support automation, and email collaboration are a possible
+future expansion. [Front](https://front.com/),
+[Missive](https://missiveapp.com/), and
+[Help Scout](https://www.helpscout.com/) are adjacent references for customer
+operations, team coordination, and support workflows.
+
+Do not position Tecotype Individual as a cheaper Front or as a support
+platform. The current wedge remains calm, private control for one professional.
+A future team product would need separate evidence and positioning while
+preserving clear ownership, predictable automation, and an explicit privacy
+boundary.
 
 ## The never list
 

@@ -212,6 +212,28 @@ Tecotype is not:
 Future features should not blur these boundaries without an explicit product
 decision.
 
+## Future market extension
+
+Support automation and inbox collaboration are a possible market extension
+after the individual email client is proven.
+
+[Front](https://front.com/) represents the broader customer-operations end of
+this market. [Missive](https://missiveapp.com/) represents collaborative email,
+and [Help Scout](https://www.helpscout.com/) represents support inboxes and
+service workflows. Relevant future jobs could include:
+
+- shared ownership of a support or operations inbox;
+- assignment, handoff, and internal discussion around an email;
+- inspectable routing and repetitive-work automation;
+- approval and audit trails for sensitive actions; and
+- customer context from business systems.
+
+This is adjacency, not the current product. Tecotype Individual remains a
+private, local-first personal client. A team or support product would require
+separate customer validation, pricing, collaboration infrastructure, and an
+explicit privacy model that does not silently weaken the Individual product's
+local-mail boundary.
+
 ## Current state
 
 Tecotype is under active development. The core desktop client, Gmail and IMAP
@@ -223,8 +245,8 @@ Important work still includes:
 
 - First-run and no-account onboarding.
 - Validation of the audience and positioning.
-- The Tecotype account, entitlement service, and payment flows for the decided
-  Individual price.
+- Website billing and licensing for the direct desktop edition.
+- The separate sandboxed Mac App Store build and Apple purchase flow.
 - The public website and acquisition experience.
 - Continued compose and sending polish.
 - Broader distribution beyond the current Mac-first release.
