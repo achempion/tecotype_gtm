@@ -1,6 +1,6 @@
 # Local EML viewer
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact discovery, capacity, and paid bridge are unproven.
 
 People receive or export `.eml` files but cannot safely read them or make a
 portable record. Possible path: file-opening search → free browser-local

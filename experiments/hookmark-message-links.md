@@ -1,6 +1,6 @@
 # Hookmark message links
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact placement, capacity, and paid bridge are unproven.
 
 Professionals want to link an email from a task or note and reopen it without
 searching. Distribution requires Hookmark's complete campaign and a permanent

@@ -2,6 +2,12 @@
 
 Research date: **2026-07-17**
 
+Decision update: **2026-07-19**
+
+Archive notice: the candidate tests below are historical; none is a current
+**Experiment**. Use the [current decision](../../next-acquisition-funnel.md)
+and [acquisition gate](../readme.md#one-hard-gate).
+
 This document converts Spark's public evidence into bounded Tecotype tests. It
 does not recommend a channel merely because Spark uses it, and it does not
 present Tecotype's planned release work as shipped.
@@ -32,25 +38,31 @@ Current defensible product statements are narrower:
 Every feature and platform claim still requires release-build verification
 before public use.
 
+For current GTM planning, assume the eventual published client is ready on
+macOS, Windows, and Linux. The platform-gated sections below preserve the
+historical 2026-07-17 release sequence; route decisions are based on pain,
+host access, capacity, conversion, and economics rather than incomplete
+packaging.
+
 Tecotype Individual is decided at **€149/year or €15/month**, with annual as
 the primary offer. These are real billing cadences, not annualized monthly
 equivalents.
 
 ## What Spark demonstrates
 
-| Spark signal | Defensible lesson | Missing evidence |
-| --- | --- | --- |
-| Free product since 2015 and current stores | Useful free distribution can accumulate durable proof and branded coverage | Incremental active users, support cost, and free-to-paid economics |
-| Timed iPad and Android launches around Mailbox/Inbox exits | Category displacement can create unusually qualified intent | Causal migration and retention |
-| 12 Product Hunt launches | Meaningful platform/feature releases can repeatedly create attention | Visits, activation, and revenue |
-| 5,509 keywords and 132.0K modeled ETV | Owned content can create large discovery beyond the homepage | 70.8% is one low-intent page; conversion is private |
-| Ten current Google ad creatives | Paid acquisition is active | Spend, CAC, incrementality, and retention |
-| Source cookie and CTA/checkout events | A web funnel can preserve source and distinguish free, paid, plan, and cadence intent | Cross-client attribution and actual rates |
-| Free + true monthly/annual paid plans | A persistent free tier and real cadence choice lower entry pressure | Conversion, abuse, support, and churn |
-| Setapp | Bundles create an additional paid-user discovery surface | Economics and customer ownership |
-| Two Mac apps and 2022 transition | Preserving a legacy path can reduce forced migration | It also fragments product identity and support |
-| 19.5M downloads and 154K aggregate ratings | Large scale proof is visually persuasive | Definitions, platform/date mix, active use, and paid status |
-| Homepage “never shared” plus detailed exceptions | Privacy copy affects consideration | Broad assurance can conflict with the real data-flow contract |
+| Spark signal                                               | Defensible lesson                                                                     | Missing evidence                                                   |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Free product since 2015 and current stores                 | Useful free distribution can accumulate durable proof and branded coverage            | Incremental active users, support cost, and free-to-paid economics |
+| Timed iPad and Android launches around Mailbox/Inbox exits | Category displacement can create unusually qualified intent                           | Causal migration and retention                                     |
+| 12 Product Hunt launches                                   | Meaningful platform/feature releases can repeatedly create attention                  | Visits, activation, and revenue                                    |
+| 5,509 keywords and 132.0K modeled ETV                      | Owned content can create large discovery beyond the homepage                          | 70.8% is one low-intent page; conversion is private                |
+| Ten current Google ad creatives                            | Paid acquisition is active                                                            | Spend, CAC, incrementality, and retention                          |
+| Source cookie and CTA/checkout events                      | A web funnel can preserve source and distinguish free, paid, plan, and cadence intent | Cross-client attribution and actual rates                          |
+| Free + true monthly/annual paid plans                      | A persistent free tier and real cadence choice lower entry pressure                   | Conversion, abuse, support, and churn                              |
+| Setapp                                                     | Bundles create an additional paid-user discovery surface                              | Economics and customer ownership                                   |
+| Two Mac apps and 2022 transition                           | Preserving a legacy path can reduce forced migration                                  | It also fragments product identity and support                     |
+| 19.5M downloads and 154K aggregate ratings                 | Large scale proof is visually persuasive                                              | Definitions, platform/date mix, active use, and paid status        |
+| Homepage “never shared” plus detailed exceptions           | Privacy copy affects consideration                                                    | Broad assurance can conflict with the real data-flow contract      |
 
 ## Priority 1: pre-release research
 
@@ -92,13 +104,13 @@ and retention.
 
 Tecotype should prepare one plain-language matrix:
 
-| Capability | Runs where | Data involved | External party | Optional? |
-| --- | --- | --- | --- | --- |
-| Gmail/IMAP sync | Verify release implementation | Mail and authorization material | User's email provider | Required for connected account |
-| Local search | Device | Local working copy | None beyond provider sync | Core |
-| Better search | Device | Local index/content | Verify current model/runtime | Optional |
-| Diagnostics/measurement | Define before release | Non-content event/failure metadata | Define and disclose | Consent/control required |
-| Licensing/payment | Define before release | Entitlement and billing data | Payment provider | Required for paid use |
+| Capability              | Runs where                    | Data involved                      | External party               | Optional?                      |
+| ----------------------- | ----------------------------- | ---------------------------------- | ---------------------------- | ------------------------------ |
+| Gmail/IMAP sync         | Verify release implementation | Mail and authorization material    | User's email provider        | Required for connected account |
+| Local search            | Device                        | Local working copy                 | None beyond provider sync    | Core                           |
+| Better search           | Device                        | Local index/content                | Verify current model/runtime | Optional                       |
+| Diagnostics/measurement | Define before release         | Non-content event/failure metadata | Define and disclose          | Consent/control required       |
+| Licensing/payment       | Define before release         | Entitlement and billing data       | Payment provider             | Required for paid use          |
 
 Test whether a reader can answer:
 
@@ -315,18 +327,51 @@ research or notification page is acceptable only when its status is explicit.
 Spark's 10 current creatives prove that a mature email client advertises. They
 do not prove efficient acquisition.
 
+The first confirmed cluster is people whose locally present Classic Outlook
+mail is omitted from search after the applicable Microsoft checks fail. The
+canonical design and subsequent economic rejection are in
+[the broken-Outlook-search evidence](../../confirmed-pain-opportunities.md#classic-outlook-omits-a-known-locally-present-message).
+
 Start with:
 
-- one platform;
-- one high-intent query cluster;
-- one promise;
-- one destination;
+- Windows and Classic Outlook only;
+- the narrow `outlook search not finding emails` cluster;
+- one accountless local-retrieval promise;
+- one qualifying landing page;
 - a small fixed spend;
-- source-to-retained-activation measurement;
+- intended-result-to-live-mail-to-retained-paid measurement;
 - quality and refund guardrails.
 
-Stop if clicks do not survive provider setup and retention. Never optimize to
-download volume.
+At a realistic 0.2%–0.36% click-to-paid range, its $0.75 CPC implies $375 CAC
+at 0.2% and $208 at 0.36%; 90 modeled monthly searches also prevent meaningful
+scale. Use it only for bounded learning. Stop if clicks do not produce
+confirmed retrieval, or retrieval does not survive live-mail setup and
+retention. Never optimize to impression, click, or download volume.
+
+The Superhuman All Accounts pain is also confirmed, but its
+[paid funnel is disqualified](../../confirmed-pain-opportunities.md#superhuman-separates-active-accounts-into-tabs):
+40 modeled monthly searches at $15.19 CPC require 30.38% click-to-paid to meet
+the $50 media-CAC gate.
+Spark is important counterevidence: its permanent free client already offers
+unlimited accounts and a unified inbox. Tecotype therefore cannot qualify by
+making All Accounts read-only or charging for reply/archive/move. The test is
+whether inexpensive organic visitors to a dated comparison retain and buy,
+not whether the unified-inbox feature is unique.
+
+Raycast local mail search was previously proposed as a free discovery
+integration. It is now parked as a product idea because Store acceptance and
+usefulness do not establish capacity for 10 paid users/month or a same-user
+paid bridge.
+
+Reply-aware follow-up was also independently confirmed as a real pain, but it
+was rejected as the next acquisition wedge. Spark Free supplies the exact
+“remind me only if nobody replies” result in a full client; affected users
+also report choosing Spark Free or seeking a cheap terminal utility. Current
+Microsoft, Google, and Chrome marketplace listings prove that inventory
+exists, not that Tecotype would receive permanent discovery or convert the
+same user into a distinct paid job. Treat reply-aware reminders as a possible
+advanced workflow to test **after** free All Accounts activation, not as a
+standalone acquisition promise.
 
 ### 13. Expand SEO only from economically legible intent
 
@@ -345,18 +390,32 @@ Expand one category-aligned cluster only when retained value supports it.
 Spark's 70.8% concentration in a generic CC/BCC page is a reach fact, not a
 Tecotype goal.
 
-### 14. Evaluate bundles with exit designed first
+### 14. Prefer provider client choice to a managed bundle
 
-Setapp could eventually offer qualified paid-software discovery. Before any
-bundle:
+The [next acquisition-funnel validation](../../next-acquisition-funnel.md) is
+permanent email-provider client-choice placement linking to Tecotype's normal
+signed build. Namecheap is the capacity/timing test; Fastmail is the
+fit/acceptance control. Useful integrations do not receive a separate,
+weaker acquisition status.
 
-- model incremental economics;
-- preserve direct source and product-quality signals;
-- assign update and support ownership;
-- avoid a divergent build unless justified;
-- retain lawful customer communication where possible;
-- define entitlement changes and migration on exit;
-- keep direct and partner product behavior aligned.
+This applies Spark's useful provider-distribution lesson without inheriting a
+bundle's updater, licensing, telemetry, and exit dependency. Before any
+provider-specific work:
+
+- obtain written permanent in-account and public placement;
+- require monthly unique exposure and aggregate outbound-click reporting;
+- preserve Tecotype signing, licensing, update delivery, and support;
+- prohibit repackaging, a partner SDK, and user-level referral identifiers;
+- keep mailbox credentials, content, metadata, and search activity out of
+  Tecotype and partner attribution;
+- model incremental economics against the USD 50 CAC ceiling; and
+- ensure the underlying provider capability remains useful without the
+  partnership.
+
+Setapp is a no-go under the current product boundary because its Membership
+build rules remove proprietary updating and licensing and its framework adds
+platform-side usage/device telemetry. Reconsider only with a written exception
+that preserves the normal Tecotype build and privacy boundary.
 
 ### 15. Relaunch meaningful changes, not routine noise
 
@@ -395,18 +454,18 @@ roadmap labels or routine maintenance as if they were new products.
 
 ## Recommended sequence
 
-| Order | Test | Earliest valid stage | Decision signal |
-| ---: | --- | --- | --- |
-| 1 | Calm-control vs keyboard-flow vs local-recall vs private-intelligence message | Now | Accurate recall and qualified interest |
-| 2 | Data-flow comprehension | Now | Correct provider/local/diagnostic understanding |
-| 3 | Privacy-minimal source and activation taxonomy | Now | Reviewable event contract |
-| 4 | Category-event playbook | Now | Ready response with explicit no-launch gates |
-| 5 | One high-intent Mac search brief | Now | Query/audience fit, no availability implication |
-| 6 | Complete Mac source-to-retention test | After all Mac release gates | Retained activation and paid outcome |
-| 7 | Reviewer outreach | After reliable Mac release | Retained activation, review themes, support load |
-| 8 | Windows availability and cohort | After Windows release gates | Windows-specific setup, retention, and payment |
-| 9 | Small paid-search test | After a measured retained cohort | Incremental retained value after full costs |
-| 10 | SEO cluster, bundle, or relaunch program | After one channel is economically legible | Incremental durable value and manageable burden |
+| Order | Test                                                                          | Earliest valid stage                      | Decision signal                                  |
+| ----: | ----------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ |
+|     1 | Calm-control vs keyboard-flow vs local-recall vs private-intelligence message | Now                                       | Accurate recall and qualified interest           |
+|     2 | Data-flow comprehension                                                       | Now                                       | Correct provider/local/diagnostic understanding  |
+|     3 | Privacy-minimal source and activation taxonomy                                | Now                                       | Reviewable event contract                        |
+|     4 | Category-event playbook                                                       | Now                                       | Ready response with explicit no-launch gates     |
+|     5 | One high-intent Mac search brief                                              | Now                                       | Query/audience fit, no availability implication  |
+|     6 | Complete Mac source-to-retention test                                         | After all Mac release gates               | Retained activation and paid outcome             |
+|     7 | Reviewer outreach                                                             | After reliable Mac release                | Retained activation, review themes, support load |
+|     8 | Windows availability and cohort                                               | After Windows release gates               | Windows-specific setup, retention, and payment   |
+|     9 | Small paid-search test                                                        | After a measured retained cohort          | Incremental retained value after full costs      |
+|    10 | SEO cluster, bundle, or relaunch program                                      | After one channel is economically legible | Incremental durable value and manageable burden  |
 
 This sequence keeps Tecotype's north star intact: speed is expected, privacy is
 structural, and calm is the experience.

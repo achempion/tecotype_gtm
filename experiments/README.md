@@ -1,16 +1,18 @@
-# Experiments
+# Parked candidate notes
 
-Tiny discovery notes, not research or plans. Create one only for a credible
-niche pain, workflow, or acquisition path; merge duplicates and
-[update the backlog](../feature-requests.md).
-Compatibility or partner interest alone is not evidence.
+Everything in this directory is **Parked**, not an acquisition
+**Experiment**, plan, or product commitment. These are tiny notes about
+possible pains or paths whose hard gates remain unknown.
 
 ```markdown
 # <Name>
-Status: Discovery only — not shipped or committed.
+
+Status: **Parked** — <missing acquisition gate>.
 <Pain or workflow and possible discovery/conversion path in 1–2 sentences.>
 Signal: <optional evidence already in hand>
 ```
 
-Do not research to fill the note. Defer research, design, metrics, and planning
-until the experiment starts.
+Merge duplicates and [update the backlog](../feature-requests.md) when
+appropriate. A note becomes an **Experiment** only through the canonical
+[acquisition gate](../acquisition/readme.md#one-hard-gate) and
+[current decision](../next-acquisition-funnel.md).

@@ -1,6 +1,6 @@
 # Gmail search misses known mail
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact discovery, capacity, and paid bridge are unproven.
 
 Gmail users can search for mail they know exists yet see few or no results until
 switching from relevance to recency. Possible path: useful diagnosis/fix →

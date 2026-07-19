@@ -2,19 +2,85 @@
 
 Research date: **2026-07-17**
 
+Decision update: **2026-07-19**
+
+Archive notice: the candidate tests below are historical; none is a current
+**Experiment**. Use the [current decision](../../next-acquisition-funnel.md)
+and [acquisition gate](../readme.md#one-hard-gate).
+
 ## Platform and release truth
 
 Tecotype is under active development.
 
-- **Mac:** a current Apple Silicon signed-target workflow exists, but the
-  public release is still gated by first run, licensing/payment, website,
-  Gmail audit, signing/notarization/update readiness, safe compose/send, and
-  measurement work. A build target is not public availability.
+- **Mac:** a public Apple Silicon artifact was verified on 2026-07-19, but a
+  trustworthy acquisition release is still gated by first run,
+  licensing/payment, website, Gmail audit, signing/notarization/update
+  readiness, safe compose/send, and measurement work. An artifact alone does
+  not establish the full marketed product contract.
 - **Windows:** distribution is planned and release-gated. It has not shipped.
+- **Linux:** included in the GTM planning premise, but no public release was
+  verified in this research.
 
 The experiments below preserve that distinction. They do not turn current
 development work, MCP ideas, or planned Windows distribution into acquisition
 claims.
+
+For acquisition planning, assume the eventual published client is ready on
+macOS, Windows, and Linux, as directed. Every public page must still verify the
+actual platform, provider, entitlement, and sender-safety claims at launch.
+
+## Decision update: confirmed pain, rejected paid acquisition
+
+The research confirmed a specific full-client switching job:
+
+> A Superhuman user or evaluator with several active accounts wants to process
+> all mail in one view instead of cycling account tabs.
+
+Five cap-compliant current users or evaluators report this same mechanism
+across Reddit, Capterra, and the App Store. Their behavior includes repeated
+daily checking, missed work mail, paid use, cancellation/refund, long use of a
+competing full client, and a reported $140/year Polymail purchase for ten
+accounts. Superhuman's current
+[Unified Inbox Workaround](https://help.superhuman.com/hc/en-us/articles/46005722297229-Unified-Inbox-Workaround)
+confirms the tab workflow.
+
+The offer must be a permanent free, fully actionable **All Accounts** client:
+unlimited supported accounts; All Accounts and account-specific views;
+read/reply/archive/move; ordinary cross-account search and shortcuts; and
+visible, reliable sender identity. A read-only companion fails because it
+preserves the account switching the user is trying to remove. Individual may
+sell only distinct advanced workflows, not the core unified-inbox action.
+
+The organic discovery and conversion hypothesis is:
+
+```text
+organic `superhuman unified inbox` result or peer recommendation
+→ /superhuman-unified-inbox-alternative
+→ dated factual comparison and All Accounts proof
+→ desktop download
+→ two supported accounts ready
+→ one useful action in each account from All Accounts
+→ repeated All Accounts processing
+→ distinct advanced workflow
+→ Individual purchase
+→ retained paid milestone
+```
+
+DataForSEO modeled only 40 US searches/month at USD 15.19 CPC. At Tecotype's
+0.2% working visitor-to-paid rate, media CAC is USD 7,595; at the cited 0.36%
+external benchmark it is still USD 4,219. The query needs 30.38%
+click-to-paid merely to reach the USD 50 gate, before non-media costs.
+Paid search is therefore disqualified on both cost and capacity.
+
+A dated comparison may remain as inexpensive organic content, but it is not
+the next acquisition funnel. Spark and Mailspring already provide free
+actionable unified inboxes, some users prefer account separation, and sender
+mistakes are a hard stop. The updated status and source audit are in the
+[confirmed-pain dossier](../../confirmed-pain-opportunities.md#superhuman-separates-active-accounts-into-tabs).
+
+This remains an unproven Tecotype-owned organic hypothesis. No partner or
+permanent pre-install surface with an attributable zero-user-to-paid funnel
+was found, so it is not counted as distribution.
 
 ## Transferable model
 
@@ -177,30 +243,37 @@ that block normal first use.
 **Ethic:** Disclose relationship and access terms; do not ask for favorable
 language or suppress limitations.
 
-### 7. One high-intent proof/search page
+### 7. One organic proof/search page
 
-**Stage:** After Mac release and only around a validated job.
+**Stage:** After the relevant platform/provider release and only around a
+validated job.
 
-**Hypothesis:** A precise proof page can earn category discovery even though
-Superhuman's current direct Mail page does not own broad `ai email client`,
-`fastest email client`, or `keyboard email client` top-ten results.
+**Hypothesis:** A precise, dated page may earn and convert a small amount of
+organic intent from people already searching for Superhuman's missing unified
+inbox.
 
-**Execution:** Publish one release-accurate page such as a keyboard email
-workflow or Gmail-plus-IMAP explanation. A Superhuman comparison is
-appropriate only if it is useful, current, and fair. Center Tecotype's
-different contract—calm control, local foundations, and provider scope—not a
-claim to be faster.
+**Execution:** Do not buy the exact query. Publish a factual
+`/superhuman-unified-inbox-alternative` page only if it is inexpensive to
+maintain. Cite Superhuman's dated
+official tab workaround; show Tecotype's fully actionable All Accounts and
+account-specific views; make sender identity visible; name the current free
+alternatives; and state provider/platform scope. Do not claim Tecotype is
+faster or imply that a roadmap capability is shipped.
 
-**Measure:** Search impressions and qualified sessions diagnostically;
-attributed first value, day-seven return, and paid conversion as primary
-outcomes.
+**Measure:** Search impressions and qualified sessions diagnostically. The
+primary chain is two supported accounts ready → All Accounts opened → useful
+action in each account → day-seven return → distinct paid-job use → purchase.
 
-**Continue if:** The page produces qualified activation or useful research
-questions. **Stop if:** it attracts broad informational traffic with no
-product intent.
+**Continue if:** Organic or independently recommended visitors produce at
+least 20 two-account first-value users, eight voluntary day-seven returns, and
+three purchases within 30 days of first value. Stop immediately for sender
+mistakes, a core-action paywall, free-incumbent preference, maintenance cost
+that cannot support sub-USD-50 CAC, or a Superhuman release that closes the
+gap.
 
 **Ethic:** Cite sources, date comparisons, and distinguish shipped, optional,
-and planned capabilities.
+and planned capabilities. Never transmit mailbox identity or content for
+attribution.
 
 ### 8. Retention-gated referral credit
 

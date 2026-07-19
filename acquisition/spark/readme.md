@@ -135,7 +135,7 @@ team case study / collaboration page / team pricing
 | Paid Google acquisition | Verified advertiser and 10 creatives, with current 2026 activity | No spend, targeting, impressions, clicks, installs, CAC, or paid conversion | Active channel, effectiveness unknown | High for presence |
 | Product Hunt | 12 launches, several daily/weekly/monthly ranks, 2016 Golden Kitty | No traffic, install, or conversion count | Durable launch-amplification layer | High for public record |
 | Press | Long-running coverage from MacStories, TechCrunch, MacRumors, and current comparison publishers | Coverage spans different products, prices, and eras; some current links may be affiliate-driven | Credible awareness and evaluation surface | High for presence |
-| Setapp | Spark Plus remains in a current paid software bundle | Bundle economics, incremental customers, and source ownership are private | Active partner-distribution channel | High for presence |
+| Setapp | Spark Plus remains in a current paid software bundle | Bundle economics, incremental customers, and source ownership are private | Active bundle discovery and monetization surface; source-to-paid acquisition is unproven | High for presence |
 | Team/case studies | Public cases, collaboration features, team pricing, demo route | Most cases lack quantified before/after outcomes; one Zapier-slug case is not a Zapier endorsement | Consideration proof, not acquisition performance | Medium |
 | Integrations | Notion, Asana, Things, Todoist, Slack, Teams, Zoom, and others | Product integration does not establish co-marketing or referrals | Product value and possible ecosystem discovery, partnership impact unknown | High for feature presence |
 

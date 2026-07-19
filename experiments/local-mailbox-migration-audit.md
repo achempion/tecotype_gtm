@@ -1,6 +1,6 @@
 # Local mailbox migration audit
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact discovery, capacity, and paid bridge are unproven.
 
 People moving mail between providers need independent proof of what did not
 arrive. A troubleshooting search could lead to a local, read-only source/target

@@ -1,6 +1,6 @@
 # Local MBOX archive access
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact discovery, capacity, and paid bridge are unproven.
 
 People leaving Gmail can struggle to open or search large MBOX exports. Possible
 path: MBOX search or support guide → free local viewer → evaluate Tecotype for

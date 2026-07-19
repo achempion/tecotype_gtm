@@ -2,6 +2,10 @@
 
 Research date: **2026-07-17**
 
+Archive notice: this is competitor evidence, not a current recommendation.
+The [current decision](../next-acquisition-funnel.md) and
+[acquisition gate](./readme.md#one-hard-gate) supersede every sequence below.
+
 Scope: **the ten direct and comparable competitors in Wave 1**
 
 This synthesis compares:
@@ -56,18 +60,18 @@ source-tagged invitation.
 
 ## Comparative evidence
 
-| Client | Strongest visible discovery path | Strongest downstream signal | Main failure or unknown | Tecotype use |
-| --- | --- | --- | --- | --- |
-| Tatem | Incumbent-pain conversations and curated design galleries | People publicly said they joined the waitlist; homepage makes an undefined first-party 10,000+ claim | Long waits, stale access, product change, no activation or retention | Learn from problem conversations; avoid demand debt |
-| Quartz | Coordinated Product Hunt launch plus maker/agency amplification | #4 Product of the Day; first-party “hundreds” daily-use claim | Source-to-download, Gmail connection, retention, and claim definition unavailable | Use a concentrated launch only when the complete funnel is ready |
-| Carbon Mail | Founder story about age and Google's compliance burden | Reddit story captured at +19 and early-access interest | Founders said an undefined tester cohort returned to Gmail the next morning | Treat day-one and day-seven return as launch gates |
-| Mimestream | Narrow native Gmail-on-Mac promise, founder credibility, long beta, independent Mac press | First-party 167,000+ cumulative beta-join claim; 2020 Show HN at 403 points / 272 comments; 2020 Product Hunt #3 Product of the Day; durable category search | Join definition, channel attribution, activation, retention, and economics unavailable | Best sequencing model: focus, beta proof, reviewers, then paid launch |
-| ZenMail | Owned search articles plus repeated linked recommendations from one account | Product-aware brand result and visible email waitlist | Affiliation unknown; no waitlist, invitation, activation, or price data; product claims conflict | Test language privately; do not use ambiguous recommendation seeding |
-| Epistles | Provider-specific founder posts, branded support community, app stores, and one comparison result | Stalwart post captured at +9; Google Play 100+ download band; first-party counter labels 83 lifetime seats “sold” | Launch defects, trust-document conflicts, refunds and retention unknown | Use one integration proof; keep platform scope and promises narrow |
-| YouniqMail | Educational SEO, free email tools, listings/newsletters, and direct public beta | 17 non-maker feedback threads from 8 visible authors; 395 modeled US-English keywords / 1,127.94 ETV | Traffic is dominated by broad CC/BCC information; no user denominator or retention cohort | Publish one job-close page, not a broad traffic inventory |
-| Velo | Open-source, AI-built founder story in developer communities and GitHub | Reddit launch captured at +246; 664 GitHub stars at capture; 1,088 requests across the latest release's nine assets | Developer attention is not buyer intent; current macOS build unsigned, updater URL 404, and OAuth/setup friction | A strong build story can amplify launch, but trust and first run must survive scrutiny |
-| Castellum | Direct founder-controlled early-access page | 24 disk-image requests across five releases; 8 for v0.2.2 | No current category/brand SERP, credible referral, activation, or adoption proof; first build crashed and Gmail remained test-user gated | Persona specificity is useful; public download should wait for reliability and authorization |
-| Locker | One founder beta request plus direct GitHub release path | 27 disk-image requests; five free keys shown as claimed | Paid counter still showed 10/10 remaining; source, activation, reliability, and retention unknown | Make evaluation easy, but measure value and payment rather than asset requests |
+| Client      | Strongest visible discovery path                                                                  | Strongest downstream signal                                                                                                                                  | Main failure or unknown                                                                                                                  | Tecotype use                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Tatem       | Incumbent-pain conversations and curated design galleries                                         | People publicly said they joined the waitlist; homepage makes an undefined first-party 10,000+ claim                                                         | Long waits, stale access, product change, no activation or retention                                                                     | Learn from problem conversations; avoid demand debt                                          |
+| Quartz      | Coordinated Product Hunt launch plus maker/agency amplification                                   | #4 Product of the Day; first-party “hundreds” daily-use claim                                                                                                | Source-to-download, Gmail connection, retention, and claim definition unavailable                                                        | Use a concentrated launch only when the complete funnel is ready                             |
+| Carbon Mail | Founder story about age and Google's compliance burden                                            | Reddit story captured at +19 and early-access interest                                                                                                       | Founders said an undefined tester cohort returned to Gmail the next morning                                                              | Treat day-one and day-seven return as launch gates                                           |
+| Mimestream  | Narrow native Gmail-on-Mac promise, founder credibility, long beta, independent Mac press         | First-party 167,000+ cumulative beta-join claim; 2020 Show HN at 403 points / 272 comments; 2020 Product Hunt #3 Product of the Day; durable category search | Join definition, channel attribution, activation, retention, and economics unavailable                                                   | Best sequencing model: focus, beta proof, reviewers, then paid launch                        |
+| ZenMail     | Owned search articles plus repeated linked recommendations from one account                       | Product-aware brand result and visible email waitlist                                                                                                        | Affiliation unknown; no waitlist, invitation, activation, or price data; product claims conflict                                         | Test language privately; do not use ambiguous recommendation seeding                         |
+| Epistles    | Provider-specific founder posts, branded support community, app stores, and one comparison result | Stalwart post captured at +9; Google Play 100+ download band; first-party counter labels 83 lifetime seats “sold”                                            | Launch defects, trust-document conflicts, refunds and retention unknown                                                                  | Use one integration proof; keep platform scope and promises narrow                           |
+| YouniqMail  | Educational SEO, free email tools, listings/newsletters, and direct public beta                   | 17 non-maker feedback threads from 8 visible authors; 395 modeled US-English keywords / 1,127.94 ETV                                                         | Traffic is dominated by broad CC/BCC information; no user denominator or retention cohort                                                | Publish one job-close page, not a broad traffic inventory                                    |
+| Velo        | Open-source, AI-built founder story in developer communities and GitHub                           | Reddit launch captured at +246; 664 GitHub stars at capture; 1,088 requests across the latest release's nine assets                                          | Developer attention is not buyer intent; current macOS build unsigned, updater URL 404, and OAuth/setup friction                         | A strong build story can amplify launch, but trust and first run must survive scrutiny       |
+| Castellum   | Direct founder-controlled early-access page                                                       | 24 disk-image requests across five releases; 8 for v0.2.2                                                                                                    | No current category/brand SERP, credible referral, activation, or adoption proof; first build crashed and Gmail remained test-user gated | Persona specificity is useful; public download should wait for reliability and authorization |
+| Locker      | One founder beta request plus direct GitHub release path                                          | 27 disk-image requests; five free keys shown as claimed                                                                                                      | Paid counter still showed 10/10 remaining; source, activation, reliability, and retention unknown                                        | Make evaluation easy, but measure value and payment rather than asset requests               |
 
 Counts and rankings are not normalized across clients. They describe different
 markets, dates, product ages, and source types; the table compares evidence
@@ -349,16 +353,16 @@ funnel in isolation.
 The seven dossiers completed in this pass stayed below the **$0.25 per-client
 DataForSEO cap**:
 
-| Client | Billed tasks | Cost |
-| --- | ---: | ---: |
-| Mimestream | 12 | $0.156168 |
-| ZenMail | 15 | $0.158792 |
-| Epistles | 12 | $0.122460 |
-| YouniqMail | 12 | $0.175264 |
-| Velo | 13 | $0.167272 |
-| Castellum | 15 | $0.128504 |
-| Locker | 11 | $0.118540 |
-| **Total** | **90** | **$1.027000** |
+| Client     | Billed tasks |          Cost |
+| ---------- | -----------: | ------------: |
+| Mimestream |           12 |     $0.156168 |
+| ZenMail    |           15 |     $0.158792 |
+| Epistles   |           12 |     $0.122460 |
+| YouniqMail |           12 |     $0.175264 |
+| Velo       |           13 |     $0.167272 |
+| Castellum  |           15 |     $0.128504 |
+| Locker     |           11 |     $0.118540 |
+| **Total**  |       **90** | **$1.027000** |
 
 This is the subtotal for those seven dossiers, not total Wave 1 spend. The
 earlier Tatem, Quartz, and Carbon Mail research costs are outside this table;

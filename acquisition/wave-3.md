@@ -2,6 +2,10 @@
 
 Research date: **2026-07-17**
 
+Archive notice: this is competitor evidence, not a current recommendation.
+The [current decision](../next-acquisition-funnel.md) and
+[acquisition gate](./readme.md#one-hard-gate) supersede every sequence below.
+
 Scope: **seven emerging, changing, or discontinued email-client acquisition
 models**
 
@@ -33,15 +37,15 @@ checkout, subscription, or payment flow was used.
 
 The per-competitor amount is the budget unit:
 
-| Client | Audited DataForSEO spend |
-| --- | ---: |
-| ReplylessAI | $0.116632 |
-| Orchid / Zero | $0.189220 |
-| MonoMail | $0.088144 |
-| Extra | $0.122128 |
-| Airo Mail | $0.116272 confirmed; possibly $0.118272 |
-| Notion Mail | $0.108836 |
-| Newton Mail | $0.132996 |
+| Client           |                    Audited DataForSEO spend |
+| ---------------- | ------------------------------------------: |
+| ReplylessAI      |                                   $0.116632 |
+| Orchid / Zero    |                                   $0.189220 |
+| MonoMail         |                                   $0.088144 |
+| Extra            |                                   $0.122128 |
+| Airo Mail        |     $0.116272 confirmed; possibly $0.118272 |
+| Notion Mail      |                                   $0.108836 |
+| Newton Mail      |                                   $0.132996 |
 | **Wave 3 total** | **$0.874228 confirmed; possibly $0.876228** |
 
 Every client is below the **$2 per-competitor budget**, including Airo's
@@ -103,15 +107,15 @@ than compete with it in the headline.
 
 ## Comparative evidence
 
-| Client | Strongest visible discovery or evaluation route | Strongest downstream signal | Main failure or unknown | Tecotype marketing use |
-| --- | --- | --- | --- | --- |
-| ReplylessAI | Product Hunt, directories, founder updates, and plain lifecycle email | Stripe-verified $3,988 all-time revenue, $78 MRR, and four active subscriptions; one update email reportedly caused a lifetime purchase | Original acquisition source, activation, retention, and channel economics unknown | Test a small tagged launch bundle and factual lifecycle email; keep acquisition and conversion touches distinct |
-| Orchid / Zero | Open-source repository, Product Hunt, YC, HN, Reddit, and a concrete assistant demonstration | 10,688 stars, 850 Product Hunt points, and a first-party 15,000+ early-access claim | No source-to-paid cohort; category and CTA fragmented after the Zero-to-Orchid transition | Create one permanent proof surface and preserve category/source continuity |
-| MonoMail | Founder/community Reddit posts and public GitHub history | 3,215 cumulative release-asset download events and 144 stars | Events are not unique users; store route unavailable; activation and revenue absent | Use community-specific demonstrations and source links; ignore vote/star/download totals as outcomes |
-| Extra | Coordinated launch, stores, tagged editorial/creator links, founder codes, and observed paid creatives | Company-reported beta activity and public ratings | Free offer, undisclosed monetization, stale access copy, no retained cohort | Test an action-first message and small tagged partner routes |
-| Airo Mail | Two public message variants with concrete workflows and a no-card trial; one exposed a no-sign-in demo | One App Store rating and 10+ Google Play downloads | Variant assignment and conversion unknown; messages, tiers, and demo visibility conflict; paid evidence is absent | Test a narrow page plus faithful no-account demonstration, with controlled assignment and one synchronized offer |
-| Notion Mail | Notion brand, waitlist, launch distribution, press, stores, and community | Durable branded discovery and current transition intent | Inbox scheduled to close; reason, adoption, retention, and paid contribution unknown | Publish accurate, ethical transition guidance and measure the complete handoff |
-| Newton Mail | Legacy brand, stores, press, community, and candid 2026 relaunch story | Historical 40,000+ paid-subscriber claim and durable branded search | Current non-brand discovery is tiny; public offer states conflict; trust debt persists | Maintain synchronized truth surfaces, dated proof, permanent links, and a continuity story |
+| Client        | Strongest visible discovery or evaluation route                                                        | Strongest downstream signal                                                                                                             | Main failure or unknown                                                                                           | Tecotype marketing use                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| ReplylessAI   | Product Hunt, directories, founder updates, and plain lifecycle email                                  | Stripe-verified $3,988 all-time revenue, $78 MRR, and four active subscriptions; one update email reportedly caused a lifetime purchase | Original acquisition source, activation, retention, and channel economics unknown                                 | Test a small tagged launch bundle and factual lifecycle email; keep acquisition and conversion touches distinct  |
+| Orchid / Zero | Open-source repository, Product Hunt, YC, HN, Reddit, and a concrete assistant demonstration           | 10,688 stars, 850 Product Hunt points, and a first-party 15,000+ early-access claim                                                     | No source-to-paid cohort; category and CTA fragmented after the Zero-to-Orchid transition                         | Create one permanent proof surface and preserve category/source continuity                                       |
+| MonoMail      | Founder/community Reddit posts and public GitHub history                                               | 3,215 cumulative release-asset download events and 144 stars                                                                            | Events are not unique users; store route unavailable; activation and revenue absent                               | Use community-specific demonstrations and source links; ignore vote/star/download totals as outcomes             |
+| Extra         | Coordinated launch, stores, tagged editorial/creator links, founder codes, and observed paid creatives | Company-reported beta activity and public ratings                                                                                       | Free offer, undisclosed monetization, stale access copy, no retained cohort                                       | Test an action-first message and small tagged partner routes                                                     |
+| Airo Mail     | Two public message variants with concrete workflows and a no-card trial; one exposed a no-sign-in demo | One App Store rating and 10+ Google Play downloads                                                                                      | Variant assignment and conversion unknown; messages, tiers, and demo visibility conflict; paid evidence is absent | Test a narrow page plus faithful no-account demonstration, with controlled assignment and one synchronized offer |
+| Notion Mail   | Notion brand, waitlist, launch distribution, press, stores, and community                              | Durable branded discovery and current transition intent                                                                                 | Inbox scheduled to close; reason, adoption, retention, and paid contribution unknown                              | Publish accurate, ethical transition guidance and measure the complete handoff                                   |
+| Newton Mail   | Legacy brand, stores, press, community, and candid 2026 relaunch story                                 | Historical 40,000+ paid-subscriber claim and durable branded search                                                                     | Current non-brand discovery is tiny; public offer states conflict; trust debt persists                            | Maintain synchronized truth surfaces, dated proof, permanent links, and a continuity story                       |
 
 The figures are not normalized. They describe different products, dates,
 business models, platforms, and public counters. The table compares evidence

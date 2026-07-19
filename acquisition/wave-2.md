@@ -2,7 +2,25 @@
 
 Research date: **2026-07-17**
 
+Decision update: **2026-07-19**
+
+Archive notice: this is competitor evidence, not a current recommendation.
+The [current decision](../next-acquisition-funnel.md) and
+[acquisition gate](./readme.md#one-hard-gate) supersede every sequence below.
+
 Scope: **the eight established email-client acquisition models in Wave 2**
+
+Later work rejected the two paid-search routes, parked Raycast, and moved all
+live verdicts out of this archive. See the
+[confirmed pain evidence](../confirmed-pain-opportunities.md) for the numbers
+and the [current acquisition decision](../next-acquisition-funnel.md) for the
+only current route table.
+
+The GTM sequence assumes the eventual published Tecotype client is ready on
+macOS, Windows, and Linux. This avoids rejecting a route because current
+packaging is incomplete; it does not turn the assumption into a public
+availability claim.
+The historical competitor conclusions remain useful supporting evidence.
 
 This synthesis compares:
 
@@ -32,17 +50,17 @@ workspace, including earlier passes that were not required by the final
 reports. The individual totals are the budget unit; the aggregate is included
 for transparency:
 
-| Client | Audited DataForSEO spend |
-| --- | ---: |
-| HEY | $0.157556 |
-| MailMate | $0.124436 |
-| Mailbird | $0.261196 |
-| Superhuman Mail | $0.346032 |
-| Canary Mail | $0.166956 |
-| Shortwave | $0.363508 |
-| Spark Mail | $0.166956 |
-| eM Client | $0.168956 |
-| **Wave 2 total** | **$1.755596** |
+| Client           | Audited DataForSEO spend |
+| ---------------- | -----------------------: |
+| HEY              |                $0.157556 |
+| MailMate         |                $0.124436 |
+| Mailbird         |                $0.261196 |
+| Superhuman Mail  |                $0.346032 |
+| Canary Mail      |                $0.166956 |
+| Shortwave        |                $0.363508 |
+| Spark Mail       |                $0.166956 |
+| eM Client        |                $0.168956 |
+| **Wave 2 total** |            **$1.755596** |
 
 Every reconciled client total is below the user-confirmed **$2 per-competitor
 budget**. The $1.755596 aggregate is shown for transparency, not as a combined
@@ -81,25 +99,27 @@ stages:
   much of their modeled search visibility comes from generic email education
   or provider-login help rather than people choosing a client.
 
-For Tecotype, the immediate opportunity is not to reproduce those mature
-portfolios. It is to finish a trustworthy public Mac release, validate one
-frequent calm-control job, instrument the complete path privately, and guide a
-small source-tagged cohort to value. A reviewer brief and one high-intent page
-should follow only after that cohort returns voluntarily. Windows needs its
-own release and evidence; it cannot inherit a Mac acquisition result.
+For Tecotype, neither confirmed-pain query qualifies as a primary paid
+acquisition engine. A very small Classic Outlook test can still measure
+whether successful accountless local retrieval leads the same person to
+connect live mail, activate the broader client, pay, and retain. It is
+Windows-specific learning, not a scalable paid program. The next acquisition
+validation is provider-controlled client-choice placement for the normal
+Tecotype build. Raycast remains a possible product integration, not a current
+acquisition experiment. Neither route is qualified distribution.
 
 ## Comparative evidence
 
-| Client | Strongest visible discovery path | Strongest downstream signal | Main failure or unknown | Tecotype use |
-| --- | --- | --- | --- | --- |
-| Mailbird | Provider-help and comparison SEO, current ads, partners, affiliates, stores, and repeated promotions | Current free and paid routes plus multi-year ad and referral mechanics | Four provider-login pages supply 58.6% of modeled ETV; licensing and audience claims create trust risk; retained economics are private | Learn from channel and source instrumentation after activation works; avoid low-intent scale and urgency |
-| Superhuman | Founder/category story, Product Hunt, referrals, partners, paid attribution, and team expansion | First-party retrospective reports 65%+ workflow transition and nearly 2x activation and referrals after guided onboarding | Early comparison had selection bias; current domain metrics are suite-contaminated; CAC, retention, and renewal remain private | Best model for guided first value followed by productized onboarding |
-| HEY | 37signals audience, founder-led point of view, long demonstration, Product Hunt, press, and controversy | Founder-reported 125,000 signups in 11 days; current no-card 30-day trial | New-provider adoption, no historical import, and a new workflow create high switching cost; payment and retention are unknown | Use one mechanism-led story and full demonstration without manufacturing conflict |
-| Shortwave | Ex-Google founder story, Google Inbox replacement, HN/Product Hunt, recurring launches, migration pages, ads, and product loops | Show HN reached 224 points / 123 comments; current brand, AI-email, and Inbox-replacement search surfaces are visible | Direct provider support remains Gmail/Workspace; the message has expanded from calm control into AI, teams, and automation; retained cohorts are private | Teach one optional workflow, reduce switching friction, and launch improvements repeatedly after retention |
-| Canary Mail | Broad informational SEO, app stores, Product Hunt/press, security positioning, and portfolio routing | Current multi-platform releases; 8,714 iOS ratings at 4.49/5 and 100K+ Android download band | Six broad how-to pages supply 61.2% of modeled ETV; privacy superlatives need data-flow qualifications; Setapp exit exposed trust friction | Use current platform proof and explicit data flows; do not start with broad content volume |
-| Spark Mail | Long-running free/store presence, platform launches, press, Product Hunt, Setapp, content, and current Google ads | Large mobile review footprints, current releases, and explicit source-to-checkout web events | One CC/BCC page supplies 70.8% of modeled ETV; two maintained Mac clients and changing plans add migration and choice friction | Learn from long-lived public discovery and measurement; keep one product path and current-value story |
-| eM Client | Provider-help SEO, reseller program, Postbox migration, ads, comparisons, business sales, and stores | Published 30%–45% reseller margins and a concrete acquired-user migration offer | Ten provider pages supply 77.9% of modeled ETV; broad category rankings were weak; activation expiry and shifting audience units create anxiety | Consider a narrow partner or migration cohort after release; make entitlement and access consequences calm and explicit |
-| MailMate | Power-user recommendations, integrations, technical documentation, mailing list, and brand search | Founder reported $13,430 in 131 crowdfunding pledges; the niche has persisted since 2010 | Almost all modeled search is branded; the stable release is stale; Free/Paid Mode and solo-developer capacity obscure sustainability | Strongest evidence for precise keyboard/search proof and relevant community advocacy |
+| Client      | Strongest visible discovery path                                                                                                | Strongest downstream signal                                                                                               | Main failure or unknown                                                                                                                                  | Tecotype use                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Mailbird    | Provider-help and comparison SEO, current ads, partners, affiliates, stores, and repeated promotions                            | Current free and paid routes plus multi-year ad and referral mechanics                                                    | Four provider-login pages supply 58.6% of modeled ETV; licensing and audience claims create trust risk; retained economics are private                   | Learn from channel and source instrumentation after activation works; avoid low-intent scale and urgency                |
+| Superhuman  | Founder/category story, Product Hunt, referrals, partners, paid attribution, and team expansion                                 | First-party retrospective reports 65%+ workflow transition and nearly 2x activation and referrals after guided onboarding | Early comparison had selection bias; current domain metrics are suite-contaminated; CAC, retention, and renewal remain private                           | Best model for guided first value followed by productized onboarding                                                    |
+| HEY         | 37signals audience, founder-led point of view, long demonstration, Product Hunt, press, and controversy                         | Founder-reported 125,000 signups in 11 days; current no-card 30-day trial                                                 | New-provider adoption, no historical import, and a new workflow create high switching cost; payment and retention are unknown                            | Use one mechanism-led story and full demonstration without manufacturing conflict                                       |
+| Shortwave   | Ex-Google founder story, Google Inbox replacement, HN/Product Hunt, recurring launches, migration pages, ads, and product loops | Show HN reached 224 points / 123 comments; current brand, AI-email, and Inbox-replacement search surfaces are visible     | Direct provider support remains Gmail/Workspace; the message has expanded from calm control into AI, teams, and automation; retained cohorts are private | Teach one optional workflow, reduce switching friction, and launch improvements repeatedly after retention              |
+| Canary Mail | Broad informational SEO, app stores, Product Hunt/press, security positioning, and portfolio routing                            | Current multi-platform releases; 8,714 iOS ratings at 4.49/5 and 100K+ Android download band                              | Six broad how-to pages supply 61.2% of modeled ETV; privacy superlatives need data-flow qualifications; Setapp exit exposed trust friction               | Use current platform proof and explicit data flows; do not start with broad content volume                              |
+| Spark Mail  | Long-running free/store presence, platform launches, press, Product Hunt, Setapp, content, and current Google ads               | Large mobile review footprints, current releases, and explicit source-to-checkout web events                              | One CC/BCC page supplies 70.8% of modeled ETV; two maintained Mac clients and changing plans add migration and choice friction                           | Learn from long-lived public discovery and measurement; keep one product path and current-value story                   |
+| eM Client   | Provider-help SEO, reseller program, Postbox migration, ads, comparisons, business sales, and stores                            | Published 30%–45% reseller margins and a concrete acquired-user migration offer                                           | Ten provider pages supply 77.9% of modeled ETV; broad category rankings were weak; activation expiry and shifting audience units create anxiety          | Consider a narrow partner or migration cohort after release; make entitlement and access consequences calm and explicit |
+| MailMate    | Power-user recommendations, integrations, technical documentation, mailing list, and brand search                               | Founder reported $13,430 in 131 crowdfunding pledges; the niche has persisted since 2010                                  | Almost all modeled search is branded; the stable release is stale; Free/Paid Mode and solo-developer capacity obscure sustainability                     | Strongest evidence for precise keyboard/search proof and relevant community advocacy                                    |
 
 Counts, prices, rankings, and store signals are not normalized. These products
 serve different audiences, have different ages, and expose different public
@@ -129,14 +149,12 @@ of productivity, AI, security, providers, platforms, and teams. Their mature
 distribution can support that breadth. It is a poor starting position for
 Tecotype.
 
-Tecotype's candidate lead jobs remain:
-
-- recover mail from partial or cross-language memory;
-- perform calm keyboard triage without inbox pressure; and
-- work across Gmail and IMAP in one Mac-first client.
-
-Interviews and observed first value should choose one. “Smart email,” “AI
-inbox,” and “productivity” are not sufficiently testable release stories.
+The strongest confirmed pain remains recovering one known locally present
+message that Classic Outlook's search omits after the applicable repair checks
+fail. Its paid query is research inventory rather than the selected growth
+engine. The other candidate jobs remain research inputs, not parallel
+campaigns. “Smart email,” “AI inbox,” and “productivity” are still not
+sufficiently testable release stories.
 
 ### 2. Acquisition and activation need one owner
 
@@ -276,11 +294,11 @@ Every mature client can advertise several platforms because it has already
 built distribution, support, release, and migration systems. The existence of
 shared product code does not make those systems equivalent.
 
-Tecotype has an Apple Silicon signed-release path, not a proven public Mac
-release. Windows x64 / Windows 11 packaging, signing, updates, distribution,
-and validation remain planned. Research Windows demand now, but do not invite
-installs or imply availability until that platform passes its own release
-gate.
+Tecotype's public manifest and Apple Silicon artifact were verified on
+2026-07-19. No public Windows or Linux artifact was verified. GTM planning
+assumes eventual readiness on all three desktop platforms, while public copy
+and experiment execution remain gated on the actual named-platform build and
+the accountless Outlook-search capability.
 
 ### Public measurement stops before economics
 
@@ -317,7 +335,12 @@ support, or contribution-margin data to challenge Tecotype's decided
 professional experience earns that price, not move down-market from public
 competitor offers.
 
-## Recommended Tecotype sequence
+## Historical recommended Tecotype sequence
+
+This sequence is preserved as the original Wave 2 conclusion. Its undecided
+lead-job and Mac-first ordering were superseded on 2026-07-19. The current hard
+gate and verdict are in the
+[acquisition index](./readme.md#one-hard-gate).
 
 ### Now: choose one frequent job
 
@@ -403,6 +426,21 @@ products' current providers, platforms, data paths, and prices.
 Search impressions and rank are diagnostics. The success metric is an
 attributed first-value, day-seven, or paid user. Do not build generic email
 education until one high-intent page contributes retained use.
+
+The first concrete version of this historical page can be
+`/superhuman-unified-inbox-alternative`, aimed only at Superhuman users or
+evaluators with several active accounts. Do not buy the exact query. At 40
+modeled US searches/month and USD 15.19 CPC, it needs 30.38% click-to-paid to
+meet the USD 50 media-CAC gate. A dated organic comparison and peer
+recommendations remain secondary hypotheses. The free result must include
+unlimited supported accounts, full All Accounts actions, ordinary
+cross-account search and shortcuts, account-specific views, and visible
+sender identity. Paid value begins only at a distinct advanced workflow.
+
+Spark and Mailspring are strong free incumbents. Stop for sender mistakes, a
+core-action paywall, maintenance cost above the CAC gate, or a current
+Superhuman release that removes the gap. This remains Tecotype-owned organic
+acquisition, not qualifying distribution.
 
 ### Fourth test: one partner or user-controlled referral
 

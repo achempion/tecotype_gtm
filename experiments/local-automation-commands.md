@@ -1,6 +1,6 @@
 # Local automation commands
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact placement, capacity, and paid bridge are unproven.
 
 People using launchers, timers, text tools, or programmable keyboards need to
 invoke email actions without brittle keystrokes or granting a cloud service

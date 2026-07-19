@@ -2,9 +2,11 @@
 
 Research date: **2026-07-17**
 
-These are experiments, not commitments or shipped capabilities. They translate
-eM Client's public acquisition evidence into smaller tests consistent with
-Tecotype's north star: equanimity, calm, clarity, and control.
+Decision update: **2026-07-19**
+
+Archive notice: the candidate tests below are historical; none is a current
+**Experiment**. Use the [current decision](../../next-acquisition-funnel.md)
+and [acquisition gate](../readme.md#one-hard-gate).
 
 No eM Client artifact was obtained. The recommendations are based on public
 web, store, search, backlink, mention, and advertising evidence only.
@@ -13,25 +15,21 @@ web, store, search, backlink, mention, and advertising evidence only.
 
 Current repository evidence supports:
 
-| Topic | Current truth |
-| --- | --- |
-| Product state | Active development |
-| Mac | Signed/notarized release path exists; current signed target is Apple Silicon; a public release is not yet established |
-| Windows | Signed NSIS, self-hosted, and store distribution are planned, not shipped |
-| Accounts | Gmail plus IMAP |
-| Core experience | Keyboard-first email, local search, calm control |
-| Better search | Optional and on-device in the current verified design |
-| Price | €149/year or €15/month |
-| MCP, broader intelligence, and agent automation | Future work; not current acquisition claims |
+| Topic                                           | Current truth                                                                                      |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Product state                                   | Active development                                                                                 |
+| Mac                                             | Public manifest and Apple Silicon artifact verified on 2026-07-19; marketing remains in stealth    |
+| Windows and Linux                               | Eventual readiness is the GTM planning assumption; no public artifacts were verified on 2026-07-19 |
+| Accounts                                        | Gmail plus IMAP                                                                                    |
+| Core experience                                 | Keyboard-first email, local search, calm control                                                   |
+| Better search                                   | Optional and on-device in the current verified design                                              |
+| Price                                           | €149/year or €15/month                                                                             |
+| MCP, broader intelligence, and agent automation | Future work; not current acquisition claims                                                        |
 
-Therefore:
-
-- pre-release tests may research demand and collect consented interest;
-- install and activation tests require a genuinely public signed build for the
-  named platform;
-- Windows availability must not be implied before Windows ships; and
-- optional/future capability must not be written as universal current
-  behavior.
+Therefore GTM planning can assume macOS, Windows, and Linux readiness, while
+execution and public copy remain gated on a verified build and verified
+capability for the named platform. The research-only Outlook-search route is
+Windows-specific because the confirmed trigger is Classic Outlook on Windows.
 
 ## What eM Client suggests
 
@@ -58,59 +56,40 @@ Its main warnings are:
 Tecotype should test mechanisms at low volume and demand downstream proof
 before scaling them.
 
-## Priority 1: one job-close page
+## Confirmed pain, research-only paid test: broken Classic Outlook search
 
 ### Hypothesis
 
-A page naming one repeated loss-of-control moment will attract fewer but more
-qualified prospects than a broad “best email client/productivity suite”
-message.
+A narrowly qualified page and exact-match ad can reach Classic Outlook users
+at the moment a known locally present message is omitted from body search.
+Five independent current incidents passed the confirmation gate; current
+Outlook discussions also show people using or recommending eM Client and other
+broader clients as search workarounds.
 
-Candidate problem language must come from interviews, not invention. Examples
-to investigate include:
+The free offer is Tecotype's proposed accountless **Open Outlook mail** mode:
+select a local Outlook store, build an independent local index, find the
+intended message, and open it without connecting a mailbox or paying. Only
+after successful retrieval should Tecotype offer live-mail connection.
 
-- finding a known thread quickly across a large local mailbox;
-- staying in flow with keyboard-driven triage;
-- managing Gmail and one additional IMAP account without visual noise; or
-- recovering context without sending message content to a remote AI service.
+Use the narrow `outlook search not finding emails` cluster first. Do not bid
+on generic Outlook frustration or broad `outlook search not working` traffic.
+The ad and landing page must screen out New Outlook, shared/online archives,
+server-missing mail, administrator-controlled installs, and problems resolved
+by Microsoft's documented checks.
 
-The last statement can be used only to the extent verified for the specific
-feature and path. “Private,” “offline,” and “local” must not be generalized
-beyond tested behavior.
-
-### Pre-release test
-
-Create a factual demand page with:
-
-- the problem;
-- the intended Gmail/IMAP audience;
-- a screenshot or demo only if it reflects current behavior;
-- exact platform state;
-- current planned public price of €149/year or €15/month; and
-- one consented research/interview action.
-
-Do not offer a client download before the public Mac release gate.
-
-### Post-Mac-release test
-
-Replace the research action with a signed Mac release CTA only after public
-availability is verified. Carry source through:
-
-- setup start;
-- first launch;
-- privacy explanation;
-- account connection;
-- successful sync;
-- first keyboard or optional on-device Better-search value;
-- day-seven voluntary return; and
-- payment/refund.
+The current evidence and economic rejection are in
+[the confirmed-pain report](../../confirmed-pain-opportunities.md#classic-outlook-omits-a-known-locally-present-message).
 
 ### Success and stop
 
-Success is not page traffic. Require a meaningfully higher connection and
-first-value rate than a generic control page, without higher privacy-step
-abandonment, refund, or support burden. Stop if the page attracts provider
-support intent instead of people evaluating a client.
+Success is not clicks or downloads. Require the user to confirm the intended
+message, then measure live-mail connection, account readiness, purchase, and
+retained use with a content-free random token. Reject the route if retrieval
+works but people consistently return to Outlook without activating the broader
+client. At the realistic 0.2%–0.36% click-to-paid range, $0.75 CPC implies
+$375 CAC at 0.2% and $208 at 0.36%; 90 modeled monthly searches also cap
+scale. Do not treat
+this as the primary paid funnel.
 
 ## Priority 2: five high-intent guides, not a provider farm
 
@@ -369,12 +348,12 @@ Repeat for Windows only after signed Windows distribution is actually public.
 
 ## Sequencing
 
-| Phase | Allowed work | Explicitly not yet allowed |
-| --- | --- | --- |
-| Now, pre-release | Interviews, demand pages, message tests, partner discovery, migration research, privacy QA design | Claiming public Mac/Windows availability; install acquisition |
-| After verified public signed Mac release | Mac CTA, activation measurement, specialist pilot, narrow migration cohort, release history, small paid test | Windows install claims; future MCP/agent claims |
-| After verified signed Windows release | Windows-specific pages, cohorts, partners, and ads with separate measurement | Assuming Mac results transfer automatically |
-| Later, after feature verification | Precise claims for additional intelligence or automation | Calling plans shipped before verification |
+| Phase                                    | Allowed work                                                                                                 | Explicitly not yet allowed                                    |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| Now, pre-release                         | Interviews, demand pages, message tests, partner discovery, migration research, privacy QA design            | Claiming public Mac/Windows availability; install acquisition |
+| After verified public signed Mac release | Mac CTA, activation measurement, specialist pilot, narrow migration cohort, release history, small paid test | Windows install claims; future MCP/agent claims               |
+| After verified signed Windows release    | Windows-specific pages, cohorts, partners, and ads with separate measurement                                 | Assuming Mac results transfer automatically                   |
+| Later, after feature verification        | Precise claims for additional intelligence or automation                                                     | Calling plans shipped before verification                     |
 
 ## Decision rules
 

@@ -1,6 +1,6 @@
 # Local MSG viewer
 
-Status: Discovery only — not shipped or committed.
+Status: **Parked** — exact discovery, capacity, and paid bridge are unproven.
 
 People need to open Outlook `.msg` files without Outlook. Possible path: file
 search → free local viewer → search/import saved mail or connect a live mailbox
