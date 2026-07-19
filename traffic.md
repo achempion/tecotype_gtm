@@ -44,7 +44,8 @@ At one new paid customer/week, the channel may spend approximately USD
 100 new paid customers, total incremental channel cost must remain at or below
 USD 6,100.
 
-For the independent-reviewer route, the approved working allocation is:
+For a website-billed annual customer from the independent-reviewer route, the
+approved maximum working allocation is:
 
 ```text
 USD 50 first-time annual-customer commission
@@ -52,6 +53,10 @@ USD 50 first-time annual-customer commission
   channel-specific support
 = up to USD 61 incremental CAC
 ```
+
+For a Mac App Store customer using a paid creator offer code, commission is 40%
+of the first-year customer price after the refund window, capped at USD 50. The
+same USD 61 complete-CAC ceiling applies.
 
 The first 20 customers should use manual or checkout-native attribution. This
 caps commission exposure at USD 1,000 and preserves approximately USD 220 for

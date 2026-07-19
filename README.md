@@ -24,7 +24,7 @@ recommendations.
 
 - [Product](./product.md), [positioning](./positioning.md), and
   [pricing](./pricing.md)
-- [Mac App Store distribution, billing, and cross-platform entitlements](./mac-app-store-distribution.md)
+- [Mac App Store and direct-desktop purchase channels](./mac-app-store-distribution.md)
 - [Feature requests](./feature-requests.md)
 - [Parked candidate notes](./experiments/README.md)
 - [Provider relationships and distribution](./distribution/partnerships.md)

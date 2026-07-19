@@ -63,9 +63,8 @@ region, promotion, and retained legacy purchase product.
 
 The closest native Mac App Store comparison set is Canary, Airmail, Mailbird,
 Spark, Outlook, and Spike. Every paid member of that set exposes Apple in-app
-purchase. Existing website customers may still sign in to an acquired
-subscription; Apple billing is an additional purchase path for the Store build,
-not necessarily the company's only billing system.
+purchase. This establishes in-app purchase as a normal Store expectation, not
+evidence that the Store will discover or convert Tecotype.
 
 Within that set, most annual offers fall between roughly $35 and $144. Spark Pro
 at $199 is the clear recurring-plan exception. Prices above $150 are established
@@ -73,21 +72,48 @@ more broadly, but concentrate in AI-heavy, sales, collaboration, and shared-inbo
 services: Superhuman, Polymail Premium, Missive, and Front. Their prices do not
 by themselves validate €149/year for a local-first individual client.
 
+## Purchase channels
+
+Tecotype sells the Individual plan through two independent channels:
+
+| Purchase | Included applications |
+| --- | --- |
+| Mac App Store | Mac App Store build on macOS only |
+| Tecotype website | Direct macOS, Windows, and Linux builds |
+
+Both use the same €15 monthly and €149 annual base price. The mail capabilities
+on macOS should remain equivalent, but a purchase from one channel does not
+unlock the other:
+
+- Website customers on Mac install the direct build.
+- App Store customers use the Store build.
+- Do not connect Apple purchases to Windows or Linux through a Tecotype
+  entitlement service.
+- State the platform scope before purchase. Use `Mac subscription` in the Store
+  and `Desktop subscription: Mac, Windows, and Linux` on the website.
+
+This split preserves App Store trust without requiring Apple and Tecotype
+billing to share accounts, trials, subscription state, or cross-platform
+entitlements.
+
 ## Plan structure
 
 The monthly and annual options are billing intervals for the same Individual
-plan. The billing interval does not change the product or feature set.
+plan within each purchase channel. The billing interval does not change the
+product or feature set.
 
 Do not create feature differences between the monthly and annual options. The
 annual option earns preference through its lower total price, not by withholding
-product capability from monthly customers.
+product capability from monthly customers. The channel-specific platform
+licence is a distribution boundary, not an annual-versus-monthly feature tier.
 
 ## Trial
 
 The working launch offer is one free month followed by the selected monthly or
 annual subscription:
 
-- Use the same trial length and capabilities for Apple and website checkout.
+- Use the same ordinary trial length and capabilities for Apple and website
+  checkout.
 - In the Mac App Store, configure a free one-month introductory offer for both
   products in the same subscription group.
 - Say `One month free`, not `30 days free`; Apple's one-month introductory
@@ -95,16 +121,50 @@ annual subscription:
 - Use a payment-authorized trial. Apple handles authorization for IAP; website
   checkout collects a payment method before its trial starts.
 - Show the full renewal price and interval before confirmation.
-- Treat a trial as an active cross-platform entitlement.
+- Show whether the trial covers the Mac App Store build or the three direct
+  desktop builds.
 
-Apple controls eligibility for the Store offer and permits one introductory
-offer per Apple Account per subscription group. Tecotype should suppress a
-second website trial for the same Tecotype account, but should not add
-disproportionate identity checks in an attempt to eliminate all cross-provider
-trial duplication.
+Apple and website trial eligibility are independent. Do not build identity
+matching between the channels merely to prevent a person from evaluating both
+editions.
 
-The complete account, billing-source, trial, and subscription-management design
+For a Store affiliate experiment, a creator-specific paid offer code may reduce
+the first annual period to €99, or the selected localized equivalent. That
+pay-up-front offer replaces the free month, then renews at the ordinary annual
+price unless cancelled. It is an acquisition experiment, not the public base
+price.
+
+The complete channel, offer-code, trial, and subscription-management decision
 is in [Mac App Store distribution](./mac-app-store-distribution.md).
+
+## Business billing
+
+The website is the business-billing route, even when the buyer needs only one
+Individual subscription:
+
+- Website checkout should accept company name, billing address, and VAT number
+  where applicable.
+- The payment and tax provider should issue the corresponding Tecotype invoice.
+- The Mac App Store purchaser receives Apple's receipt. Tecotype cannot add
+  company or VAT fields to Apple's individual in-app purchase checkout.
+- Apple Business does not turn the Individual in-app subscription into a
+  centrally purchased or assigned business licence.
+
+Team seats, purchase orders, and enterprise contracts remain undecided. Do not
+imply that the Individual website checkout already provides them.
+
+## Future market extension
+
+[Front](https://front.com/), [Missive](https://missiveapp.com/), and
+[Help Scout](https://www.helpscout.com/) establish a higher-value adjacent
+market around shared inboxes, support automation, internal collaboration,
+routing, and customer operations.
+
+That market is a possible extension after Tecotype proves the individual
+client. It is not part of the current €149 Individual promise and must not be
+used to rationalize today's price. A future team product would need its own
+customer evidence, pricing, server and privacy architecture, and acquisition
+plan.
 
 ## Presentation principles
 
@@ -121,10 +181,10 @@ is in [Mac App Store distribution](./mac-app-store-distribution.md).
 This document does not decide:
 
 - Whether Tecotype will have a permanent free plan.
-- Team, business, education, or regional pricing.
+- Team, support-operations, business, education, or regional pricing.
 - Refund and cancellation policy.
 
-Billing and entitlement implementation is a working distribution decision, not
+Billing, Store distribution, and direct desktop licensing are decisions, not
 shipped functionality. See
 [Mac App Store distribution](./mac-app-store-distribution.md).
 

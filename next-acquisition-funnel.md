@@ -12,14 +12,24 @@ Research date: 2026-07-19
 
 ```text
 zero-history viewer discovers Tecotype in an independent email-client review
-→ follows a tracked link to Tecotype's normal evaluation and checkout
-→ installs the normal signed app and reaches value with a real mailbox
-→ pays €149/year or €15/month
+→ chooses the Mac App Store or Tecotype website
+→ uses that channel's standard purchase and installation path
+→ connects a real mailbox and becomes an attributable first-time paid customer
 ```
 
 The viewer discovers Tecotype through Efficient App's audience and YouTube
 search or recommendations—not by searching for Tecotype. This would be
 acquisition if the review is published.
+
+The two approved purchase paths are:
+
+| Need | Affiliate path | Product |
+| --- | --- | --- |
+| Trusted Mac-only purchase | Creator-specific Apple offer-code URL | Mac App Store build; paid €99 first year experiment, then normal annual renewal |
+| Mac, Windows, Linux, or a company/VAT invoice | Creator-specific website referral code | Direct desktop edition; €149/year or €15/month |
+
+These are two standard Tecotype products. Do not build reviewer-specific
+binaries.
 
 [Efficient App](https://efficient.app/about) earns affiliate commission on
 purchases but refuses paid placement and sponsored reviews. Its
@@ -72,21 +82,28 @@ or criticize Tecotype.
 
 ## Boundaries
 
-- Use Tecotype's normal full-product evaluation and checkout. Do not build a
-  separate free search utility, integration, custom binary, or partner updater.
-- Offer USD 50 per attributable first-time annual customer after the refund
-  window. For monthly customers, commission accrues only from collected
-  subscription revenue and remains capped at USD 50.
+- Use Tecotype's normal product and the standard purchase path for the selected
+  channel. Do not build a separate free search utility, integration, custom
+  binary, or partner updater.
+- For a website annual customer, offer USD 50 after the refund window.
+- For a paid Mac App Store offer-code customer, offer 40% of the paid
+  first-year customer price after the refund window, capped at USD 50. At €99,
+  the commission is €39.60. Apple reports the creator's custom code but does
+  not pay the affiliate.
+- For monthly customers, commission accrues only from collected subscription
+  revenue and remains capped at USD 50.
 - Start with no more than five invited reviewers and 20 attributable paid
   customers. The commission exposure is USD 1,000; the complete pilot-cost
   ceiling is USD 1,220.
 - Across 100 customers, the approved complete channel-cost ceiling is
   USD 6,100: up to USD 5,000 commission and USD 1,100 for attribution, payouts,
-  administration, and channel-specific support. Use manual or checkout-native
-  attribution for the pilot instead of allowing a long-running fixed
-  affiliate-software fee to consume that allowance.
-- Attribute with a campaign code and opaque click, install, and order IDs.
-  Report only aggregate paid/refund status. Mailbox credentials, addresses,
+  administration, and channel-specific support. Use Apple's offer-code reports
+  or website checkout codes for the pilot instead of allowing a long-running
+  fixed affiliate-software fee to consume that allowance.
+- The App Store path needs no website tracking cookie. The website path should
+  bind an explicit referral code to the checkout and order without third-party
+  advertising pixels or consent-banner tracking.
+- Report only aggregate paid/refund status. Mailbox credentials, addresses,
   domains, messages, content, queries, and derived data never enter
   attribution.
 
@@ -102,5 +119,6 @@ or criticize Tecotype.
 
 Research assumes launch-ready signed macOS, Windows, and Linux clients for GTM
 planning, as instructed. This is not a claim that all three are publicly
-available today. The review, affiliate agreement, and attribution path are
-proposed, not committed or shipped.
+available today. The Store build is a separate Mac-only purchase; website
+checkout covers the direct desktop builds. The review, affiliate agreement,
+offer codes, and attribution paths are proposed, not committed or shipped.

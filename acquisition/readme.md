@@ -22,7 +22,7 @@ A route is an acquisition experiment only when every requirement passes:
 | Paid bridge     | Current evidence from the exact or a tightly matched acquisition audience shows the same person continues into a recurring full-client job and pays for, or actively evaluates, comparable clients near Tecotype's price. Plausible adjacency is not evidence.                                                               |
 | Economics       | The complete channel-specific cost can remain at or below USD 61 incremental CAC. This is the whole channel allowance, not the commission alone.                                                                                                                                                                               |
 | Privacy         | Mailbox credentials, content, addresses, domains, messages, queries, and derived mailbox data do not enter acquisition systems.                                                                                                                                                                                              |
-| Product control | Tecotype keeps its normal signed application, licensing, release policy, and updater. No partner SDK, repackaging, or managed desktop build is required.                                                                                                                                                                     |
+| Product control | Tecotype keeps its two standard products: the Mac App Store build and the website-licensed direct desktop builds. No partner SDK, reviewer-specific binary, repackaging, or managed desktop build is required.                                                                                                                        |
 
 If any requirement is unknown, the route is **Parked**, not an experiment.
 Modeled assumptions may reject a route. The defined 0.2% working rate may pass
@@ -46,6 +46,12 @@ average of up to USD 11 per customer for channel-specific attribution, payout,
 administration, and support. A monthly subscriber earns commission only as
 revenue is collected, never USD 50 against the first EUR 15 payment, and total
 commission remains capped at USD 50.
+
+For a Mac App Store annual customer using a creator-specific paid offer code,
+the commission is 40% of the paid first-year customer price after the refund
+window, capped at USD 50. Apple offer-code reporting is the attribution source.
+For a website customer, use an explicit checkout referral code. Neither path
+requires third-party advertising cookies or a consent-banner tracking system.
 
 “Distribution” is narrower: a partner must introduce zero-existing-user
 prospects through permanent pre-install discovery and an attributable
