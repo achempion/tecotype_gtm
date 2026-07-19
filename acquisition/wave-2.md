@@ -430,8 +430,8 @@ education until one high-intent page contributes retained use.
 The first concrete version of this historical page can be
 `/superhuman-unified-inbox-alternative`, aimed only at Superhuman users or
 evaluators with several active accounts. Do not buy the exact query. At 40
-modeled US searches/month and USD 15.19 CPC, it needs 30.38% click-to-paid to
-meet the USD 50 media-CAC gate. A dated organic comparison and peer
+modeled US searches/month and USD 15.19 CPC, it needs 24.90% click-to-paid to
+meet the USD 61 media-CAC gate. A dated organic comparison and peer
 recommendations remain secondary hypotheses. The free result must include
 unlimited supported accounts, full All Accounts actions, ordinary
 cross-account search and shortcuts, account-specific views, and visible

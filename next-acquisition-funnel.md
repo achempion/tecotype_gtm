@@ -1,123 +1,106 @@
 # Current acquisition decision
 
-Current verdict: **Provider placement is Parked. No route qualifies as an
-Experiment.**
+Current verdict: **Efficient App's editorial-affiliate route is Parked. It has
+plausible modeled capacity for 100 attributable first-time paid customers, but
+unknown-brand reach, review-specific conversion, and partner acceptance remain
+unknown. Tecotype has approved a USD 50 first-time annual-customer commission
+within a USD 61 incremental-CAC ceiling.**
 
 Research date: 2026-07-19
 
-## Parked: provider client-choice placement
-
-Test whether an email provider will introduce Tecotype while a customer is
-choosing a desktop email client:
+## Candidate funnel
 
 ```text
-provider setup, dashboard, or migration surface
-→ normal Tecotype website and signed download
-→ user evaluates the complete desktop email client
-→ paid Individual plan
+zero-history viewer discovers Tecotype in an independent email-client review
+→ follows a tracked link to Tecotype's normal evaluation and checkout
+→ installs the normal signed app and reaches value with a real mailbox
+→ pays €149/year or €15/month
 ```
 
-This is the clearest remaining serious lead because the person is already
-choosing an email client. It does not rely on selling Tecotype through an
-unrelated shortcut, archive viewer, or note-taking helper. Whether provider
-users will actually buy Tecotype remains unknown.
+The viewer discovers Tecotype through Efficient App's audience and YouTube
+search or recommendations—not by searching for Tecotype. This would be
+acquisition if the review is published.
 
-The first step is **partner fact-finding, not product work**. No provider has
-committed placement or supplied qualified monthly traffic.
+[Efficient App](https://efficient.app/about) earns affiliate commission on
+purchases but refuses paid placement and sponsored reviews. Its
+[email-client comparison](https://efficient.app/best/email) evaluates full
+clients at Spark USD 99/199 per year, Missive USD 168, and Superhuman USD 300.
+One author describes becoming and remaining an annual Superhuman customer for
+six years. This is the right buyer and paid bridge.
 
-## Candidates
+## Evidence and model
 
-| Provider                | Evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Missing fact                                                                                                                                                             |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Namecheap Private Email | Its [general client guide](https://www.namecheap.com/support/knowledgebase/article.aspx/1179/2175/general-private-email-configuration-for-mail-clients-and-mobile-devices/) showed 274,346 cumulative views; it publishes [eM Client setup](https://www.namecheap.com/support/knowledgebase/article.aspx/10736/93/private-email-account-setup-in-em-client/) and [migration](https://www.namecheap.com/support/knowledgebase/article.aspx/10746/2226/how-to-transfer-emails-to-a-private-email-account-using-em-client/) guides. Its [August 2026 migration](https://www.namecheap.com/support/knowledgebase/article.aspx/10818/2178/new-private-email-webmail-heres-what-to-expect/) removes Unified Mail while ordinary clients continue to work. | Exact Tecotype placement, monthly unique exposure, outbound clicks, affected-user count, price fit, and partner acceptance. Cumulative counters are not monthly traffic. |
-| Fastmail                | Its [device guide](https://www.fastmail.help/hc/en-us/articles/360058752834-Set-up-Fastmail-on-your-device) lists third-party desktop clients; its [partner page](https://www.fastmail.com/company/partners/) invites mail-app integrations; its [developer documentation](https://www.fastmail.com/dev/) provides the OAuth/JMAP path.                                                                                                                                                                                                                                                                                                                                                                                                             | Exact placement, qualified traffic, partner acceptance, and paid conversion.                                                                                             |
+The proposed format is a hands-on video like Efficient App's
+[current Superhuman review](https://www.youtube.com/watch?v=qnS6RfxmlX8). On
+2026-07-19 it had 3,663 views in 27 days, a 4,130/month launch pace. Its
+[predecessor](https://www.youtube.com/watch?v=3-lIQBARGHc) remained live after
+891 days with 90,472 views and pointed viewers to the replacement.
 
-Namecheap tests capacity and timing. Fastmail tests audience fit and whether a
-provider with explicit integration machinery will list Tecotype.
+| Target | Modeled path |
+| --- | --- |
+| 100 total paid | 90,472 views × 5% visit rate = 4,524 visits × 2.21% first-paid rate = 100 |
+| One paid/week | 4,130 monthly views × 5% visit rate = 207 visits × 2.10% first-paid rate = 4.33/month |
 
-## Facts required before code
+Only the view counts are observed. Superhuman's brand may inflate them, and
+both conversion rates are assumptions. At Tecotype's generic 0.2%
+visitor-to-paid planning rate, 207 visits produce only 0.41 paid
+customers/month.
 
-Ask each provider for:
+Efficient App's
+[new-account-only Superhuman deal](https://efficient.app/deals/superhuman)
+reports 4,628 claimed deals. This proves the publisher operates a real
+first-time-user affiliate mechanism, but “claimed” is undefined and comes from
+a different surface. It is not capacity or sales evidence.
 
-- the exact permanent, host-controlled pre-install placement;
-- monthly unique views of that surface;
-- observed outbound clicks for comparable desktop clients;
-- placement duration and removal terms;
-- a direct link to Tecotype's normal signed download;
-- aggregate impression and click reporting; and
-- confirmation that no partner SDK, repackaging, managed updater, mailbox-data
-  exchange, or per-user referral identifier is required.
+## The unlock request
 
-Translate provider impressions into visits only with the provider's observed
-outbound rate, not an invented click-through rate. Apply this capacity screen:
+Ask Efficient App for one aggregate data packet:
 
-- below **2,800 relevant visits/month:** **Rejected** on capacity;
-- **2,800–4,999:** **Parked** unless a current, tightly matched Tecotype cohort
-  has an observed conversion rate sufficient for 10 purchases/month; and
-- **5,000 or more:** capacity may pass for an **Experiment** using the 0.2%
-  working visitor-to-paid assumption in [traffic.md](traffic.md).
+1. unique clicks, first-time evaluations, first payments, refunds, and 90-day
+   retained customers for each named Superhuman video, excluding its deal page,
+   search, other videos, and existing users;
+2. 30-day, 90-day, and lifetime views for recent reviews of lesser-known
+   first-time B2B products; and
+3. willingness to evaluate Tecotype independently and accept the proposed
+   affiliate terms.
 
-This screen requires observed surface traffic. It qualifies only pre-launch
-capacity; live Tecotype conversion determines whether the route becomes an
-**Excellent channel**.
+Advance to **Experiment** only when observed view-to-click-to-first-paid data
+supports 100 customers over an evidenced useful life, complete incremental CAC
+can remain at or below USD 61, and the publisher accepts. One/week remains the
+desired pace, not a second hard gate. Efficient App must remain free to decline
+or criticize Tecotype.
 
-## Live experiment gate
+## Boundaries
 
-Launch only after the discovery, capacity, paid-bridge, privacy, updater, and
-cost gates all pass.
+- Use Tecotype's normal full-product evaluation and checkout. Do not build a
+  separate free search utility, integration, custom binary, or partner updater.
+- Offer USD 50 per attributable first-time annual customer after the refund
+  window. For monthly customers, commission accrues only from collected
+  subscription revenue and remains capped at USD 50.
+- Start with no more than five invited reviewers and 20 attributable paid
+  customers. The commission exposure is USD 1,000; the complete pilot-cost
+  ceiling is USD 1,220.
+- Across 100 customers, the approved complete channel-cost ceiling is
+  USD 6,100: up to USD 5,000 commission and USD 1,100 for attribution, payouts,
+  administration, and channel-specific support. Use manual or checkout-native
+  attribution for the pilot instead of allowing a long-running fixed
+  affiliate-software fee to consume that allowance.
+- Attribute with a campaign code and opaque click, install, and order IDs.
+  Report only aggregate paid/refund status. Mailbox credentials, addresses,
+  domains, messages, content, queries, and derived data never enter
+  attribution.
 
-Success requires, on a rolling three-month average:
+## Other routes
 
-- at least 10 attributable new paid users/month;
-- incremental channel CAC below USD 50;
-- at least 60% retained at 90 days or first renewal; and
-- continued host-controlled discovery without paid media.
+| Route | Status | Decisive issue |
+| --- | --- | --- |
+| Efficient App editorial affiliate | **Parked** | Exact unknown-brand reach, review-specific conversion, and publisher acceptance are unknown. |
+| Full-app download catalogs | **Parked** | Counters mix branded installs, updates, and re-downloads and show no payment path. |
+| CRM integration marketplaces | **Parked** | Install totals do not distinguish existing customers from net-new discovery. |
+| F6S startup-perk email deal | **Rejected** | Only 101 deal claims since 2016, not paid customers. |
+| Paid Outlook/Superhuman search | **Rejected** | Capacity and CAC both fail. |
 
-At 10 new paid users/month, total incremental channel cost must stay below USD
-500/month to preserve the CAC ceiling. Count provider-specific engineering,
-review, creative, support, measurement, fees, and maintenance.
-
-## Privacy and product control
-
-- Tecotype ships one normal signed application and keeps its licensing,
-  release policy, and updater.
-- Mailbox credentials and tokens stay in local secure storage and are used only
-  with the user's chosen provider.
-- Mailbox content, addresses, domains, hostnames, messages, searches, and
-  derived mailbox data never enter acquisition attribution.
-- The provider receives no new mailbox information from Tecotype.
-- Removing the partner link cannot disable, relicense, or strand the installed
-  application.
-
-Prefer provider-reported aggregate impressions and clicks plus a
-channel-specific checkout source. Coarse source-to-paid measurement can qualify
-an acquisition channel. A strict distribution claim additionally requires a
-consented first-use-to-paid join using a random token scoped to this
-experiment, with no mailbox fields. Delete it within 14 days after the 90-day
-retained or cancelled outcome and always by day 120. Declining measurement
-cannot reduce product value.
-
-## Parked and rejected routes
-
-| Route                             | Status       | Reason                                                                                                                                                                                                 |
-| --------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| AlternativeTo                     | **Parked**   | Publish an accurate listing after Tecotype is publicly obtainable, but treat it as launch hygiene until exact traffic and paid conversion are known.                                                   |
-| Raycast or Obsidian               | **Parked**   | Potentially useful local integrations, but exact capacity and same-user paid conversion are unknown. Build only for independent product value.                                                         |
-| Todoist                           | **Rejected** | The thin email-to-task action duplicates Todoist's own task creation. A reply-aware workflow would be substantial product work with no evidenced acquisition capacity.                                 |
-| ImportExportTools NG              | **Rejected** | It serves a one-time Thunderbird archive-export job, depends on maintainer promotion, and lacks a recurring paid-client bridge.                                                                        |
-| Works With YubiKey                | **Parked**   | Catalog traffic and paid adjacency are unknown. Do not build hardware-backed mail security merely to test the route.                                                                                   |
-| Paid Outlook or Superhuman search | **Rejected** | Capacity and CAC fail; see the [pain evidence](confirmed-pain-opportunities.md).                                                                                                                       |
-| Setapp Membership                 | **Rejected** | Its [application requirements](https://docs.setapp.com/docs/preparing-your-application-for-setapp) and [update model](https://docs.setapp.com/docs/faq) replace Tecotype's licensing/updater boundary. |
-
-Provider-panel variants such as cPanel, Plesk, Open-Xchange, and mailcow are
-the same provider-client-choice hypothesis, not additional funnels. They remain
-**Parked**; exact placement and traffic are the next missing facts, not
-sufficient conditions to leave that status.
-
-## Product boundary
-
-The integration, placement, attribution path, and partner relationship are
-proposed, not shipped or committed. Public platform and capability claims
-remain governed by [product.md](product.md) and
-[positioning.md](positioning.md). Pricing remains €149/year or €15/month as
-defined in [pricing.md](pricing.md).
+Research assumes launch-ready signed macOS, Windows, and Linux clients for GTM
+planning, as instructed. This is not a claim that all three are publicly
+available today. The review, affiliate agreement, and attribution path are
+proposed, not committed or shipped.

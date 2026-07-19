@@ -68,8 +68,8 @@ organic `superhuman unified inbox` result or peer recommendation
 
 DataForSEO modeled only 40 US searches/month at USD 15.19 CPC. At Tecotype's
 0.2% working visitor-to-paid rate, media CAC is USD 7,595; at the cited 0.36%
-external benchmark it is still USD 4,219. The query needs 30.38%
-click-to-paid merely to reach the USD 50 gate, before non-media costs.
+external benchmark it is still USD 4,219. The query needs 24.90%
+click-to-paid merely to reach the USD 61 gate, before non-media costs.
 Paid search is therefore disqualified on both cost and capacity.
 
 A dated comparison may remain as inexpensive organic content, but it is not
@@ -268,8 +268,7 @@ action in each account → day-seven return → distinct paid-job use → purcha
 least 20 two-account first-value users, eight voluntary day-seven returns, and
 three purchases within 30 days of first value. Stop immediately for sender
 mistakes, a core-action paywall, free-incumbent preference, maintenance cost
-that cannot support sub-USD-50 CAC, or a Superhuman release that closes the
-gap.
+that cannot support USD 61 CAC, or a Superhuman release that closes the gap.
 
 **Ethic:** Cite sources, date comparisons, and distinguish shipped, optional,
 and planned capabilities. Never transmit mailbox identity or content for

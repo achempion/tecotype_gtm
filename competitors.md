@@ -1,13 +1,15 @@
 # Competitors
 
-Last reviewed: 2026-07-17
+Last reviewed: 2026-07-19
 
-Tracked: 50 products
+Tracked: 53 products
 
-This list excludes Gmail, Outlook, Apple Mail, and Thunderbird as standalone
-competitors. Ages are measured to July 2026. `vc` includes institutional and
-accelerator capital. `bootstrapped` is provisional where no external round was
-found. `—` means no credible public adoption metric was found.
+This list excludes Gmail, Apple Mail, and Thunderbird as standalone competitors.
+Outlook is included because its Mac App Store distribution and Microsoft 365
+purchase paths are relevant commercial benchmarks. Ages are measured to July
+2026. `vc` includes institutional and accelerator capital. `bootstrapped` is
+provisional where no external round was found. `—` means no credible public
+adoption metric was found.
 
 ## What matters for Tecotype
 
@@ -46,8 +48,11 @@ found. `—` means no credible public adoption metric was found.
 | [HEY](https://37signals.com/01) | bootstrapped | Launched 2020; ~6 years | Tens of thousands of early paying customers; current count undisclosed | Strong calm and screening philosophy, but requires provider migration |
 | [Mailbird](https://www.getmailbird.com/about/) | vc | Launched 2013; ~13 years | 4.5 million users; 200,000+ customers claimed | Mainstream desktop multi-account validation |
 | [Missive](https://missiveapp.com/about) | bootstrapped | Launched 2016; ~10 years | 5,000+ companies; 30,000+ daily users | Team collaboration and shared-inbox alternative |
+| [Microsoft Outlook](https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12) | public company | Product lineage since 1997; current Mac client actively maintained | Outlook-specific active users undisclosed | Workplace incumbent; free core client plus Microsoft 365 IAP is a Mac App Store billing benchmark |
 | [Spike](https://www.spikenow.com/about/) | vc | Founded 2013; ~13 years | Current users undisclosed; $16M raised by 2020 | Email-as-chat and all-in-one workspace direction |
 | [Airmail](https://airmailapp.com/) | bootstrapped | Public since 2013; ~13 years | — | Apple-platform integration and action depth |
+| [Polymail](https://polymail.io/) | vc | Public since 2016; ~10 years | 10,000+ users claimed | Paid cross-provider client with sales workflows and external account billing |
+| [Front](https://front.com/) | vc | Founded 2013; ~13 years | — | High-price shared-inbox and customer-operations benchmark rather than a personal local client |
 | [Newton Mail](https://newtonhq.com/blogs) | bootstrapped | ~12-year lineage; relaunched June 2026 | Historical 4 million users and 40,000 paid; not current | Repeated shutdowns are a sustainability warning |
 | [MailMate](https://freron.com/) | bootstrapped | Public beta 2010; ~16 years | — | Durable one-developer keyboard and search niche |
 | [BlueMail](https://bluemail.me/?page_id=18256) | bootstrapped | Founded 2013; ~13 years | 750,000+ store reviews; users undisclosed | Large free cross-platform distribution |

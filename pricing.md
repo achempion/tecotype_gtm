@@ -2,7 +2,7 @@
 
 Status: Pricing decision
 
-Last reviewed: 2026-07-16
+Last reviewed: 2026-07-19
 
 ## Individual plan
 
@@ -42,6 +42,37 @@ Pricing copy should use these concrete product qualities as proof. It should not
 justify the price with unverified time-saved claims, feature quantity, artificial
 urgency, or technology-first language.
 
+## Current market comparison
+
+These are public US prices checked on 2026-07-19. They are market context, not
+evidence that Tecotype's price will convert. App Store prices can vary by
+region, promotion, and retained legacy purchase product.
+
+| Product                                                                                       |                  Current annual price or nearest equivalent | Purchase and distribution context                                                                                                                |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Canary Mail](https://canarymail.io/pricing)                                                  |                                       Growth $36; Pro+ $100 | Native Mac App Store client with Apple in-app purchase; also covers other supported platforms                                                    |
+| [Airmail](https://apps.apple.com/us/app/airmail-lightning-fast-email/id918858936?mt=12)       |                                                  Pro $49.99 | Native Mac App Store client with Apple in-app purchase; optional AI Composer is listed separately at $14.99/month                                |
+| [Mailbird](https://apps.apple.com/us/app/mailbird-the-email-app/id6749447444?mt=12)           |                                $34.49/year or $159 one-time | Native Mac App Store client with Apple in-app purchase                                                                                           |
+| [Spark](https://sparkmailapp.com/help/billing-subscription/understanding-spark-billing)       |                                          Plus $99; Pro $199 | Native Mac App Store client with Apple in-app purchase; paid access is cross-platform                                                            |
+| [Microsoft Outlook](https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12)        |               Microsoft 365 Personal $99.99; Family $129.99 | Native Mac App Store client with Apple in-app purchase; the core personal-account client is free and the paid product is a broader suite         |
+| [Spike](https://apps.apple.com/us/app/spike-ai-email-team-chat/id707452888)                   |                                Pro $71.99; Ultimate $143.99 | Mac-capable App Store client with Apple in-app purchase; broader team and hosted-service features make it less directly comparable               |
+| [Superhuman Mail](https://help.superhuman.com/hc/en-us/articles/46178817646861-Pricing-Plans) |                                 Starter $300; Business $396 | Externally billed premium email service; its full desktop app is distributed directly rather than through the Mac App Store                      |
+| [Polymail](https://help.polymail.io/help/polymail-premium-email-tool)                         |                                                Premium $288 | Externally billed account service; its Apple Store listing is an iPad app that can run on Apple-silicon Macs, not a native Mac App Store release |
+| [Missive](https://missiveapp.com/pricing)                                                     |       Starter $168; Productive $288; Business $432 per user | Externally billed web and desktop team-email service                                                                                             |
+| [Front](https://front.com/pricing)                                                            | Starter $300; Professional $780; Enterprise $1,260 per seat | Externally billed customer-operations and shared-inbox platform, not a personal local email client                                               |
+
+The closest native Mac App Store comparison set is Canary, Airmail, Mailbird,
+Spark, Outlook, and Spike. Every paid member of that set exposes Apple in-app
+purchase. Existing website customers may still sign in to an acquired
+subscription; Apple billing is an additional purchase path for the Store build,
+not necessarily the company's only billing system.
+
+Within that set, most annual offers fall between roughly $35 and $144. Spark Pro
+at $199 is the clear recurring-plan exception. Prices above $150 are established
+more broadly, but concentrate in AI-heavy, sales, collaboration, and shared-inbox
+services: Superhuman, Polymail Premium, Missive, and Front. Their prices do not
+by themselves validate €149/year for a local-first individual client.
+
 ## Plan structure
 
 The monthly and annual options are billing intervals for the same Individual
@@ -50,6 +81,30 @@ plan. The billing interval does not change the product or feature set.
 Do not create feature differences between the monthly and annual options. The
 annual option earns preference through its lower total price, not by withholding
 product capability from monthly customers.
+
+## Trial
+
+The working launch offer is one free month followed by the selected monthly or
+annual subscription:
+
+- Use the same trial length and capabilities for Apple and website checkout.
+- In the Mac App Store, configure a free one-month introductory offer for both
+  products in the same subscription group.
+- Say `One month free`, not `30 days free`; Apple's one-month introductory
+  period can contain 28 to 31 days.
+- Use a payment-authorized trial. Apple handles authorization for IAP; website
+  checkout collects a payment method before its trial starts.
+- Show the full renewal price and interval before confirmation.
+- Treat a trial as an active cross-platform entitlement.
+
+Apple controls eligibility for the Store offer and permits one introductory
+offer per Apple Account per subscription group. Tecotype should suppress a
+second website trial for the same Tecotype account, but should not add
+disproportionate identity checks in an attempt to eliminate all cross-provider
+trial duplication.
+
+The complete account, billing-source, trial, and subscription-management design
+is in [Mac App Store distribution](./mac-app-store-distribution.md).
 
 ## Presentation principles
 
@@ -65,11 +120,13 @@ product capability from monthly customers.
 
 This document does not decide:
 
-- Trial duration or payment-card requirements.
 - Whether Tecotype will have a permanent free plan.
 - Team, business, education, or regional pricing.
 - Refund and cancellation policy.
-- Licensing and payment implementation.
+
+Billing and entitlement implementation is a working distribution decision, not
+shipped functionality. See
+[Mac App Store distribution](./mac-app-store-distribution.md).
 
 Those decisions should be recorded when they are made rather than inferred from
 the Individual price.

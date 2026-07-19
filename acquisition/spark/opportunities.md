@@ -350,8 +350,8 @@ retention. Never optimize to impression, click, or download volume.
 
 The Superhuman All Accounts pain is also confirmed, but its
 [paid funnel is disqualified](../../confirmed-pain-opportunities.md#superhuman-separates-active-accounts-into-tabs):
-40 modeled monthly searches at $15.19 CPC require 30.38% click-to-paid to meet
-the $50 media-CAC gate.
+40 modeled monthly searches at $15.19 CPC require 24.90% click-to-paid to meet
+the $61 media-CAC gate.
 Spark is important counterevidence: its permanent free client already offers
 unlimited accounts and a unified inbox. Tecotype therefore cannot qualify by
 making All Accounts read-only or charging for reply/archive/move. The test is
@@ -408,7 +408,7 @@ provider-specific work:
 - prohibit repackaging, a partner SDK, and user-level referral identifiers;
 - keep mailbox credentials, content, metadata, and search activity out of
   Tecotype and partner attribution;
-- model incremental economics against the USD 50 CAC ceiling; and
+- model incremental economics against the USD 61 CAC ceiling; and
 - ensure the underlying provider capability remains useful without the
   partnership.
 

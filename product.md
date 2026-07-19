@@ -2,7 +2,7 @@
 
 Status: Working product description
 
-Last reviewed: 2026-07-17
+Last reviewed: 2026-07-19
 
 ## In one sentence
 
@@ -223,7 +223,8 @@ Important work still includes:
 
 - First-run and no-account onboarding.
 - Validation of the audience and positioning.
-- Licensing and payment flows for the decided Individual price.
+- The Tecotype account, entitlement service, and payment flows for the decided
+  Individual price.
 - The public website and acquisition experience.
 - Continued compose and sending polish.
 - Broader distribution beyond the current Mac-first release.
@@ -236,6 +237,7 @@ presented as current product capabilities.
 
 - [Positioning](./positioning.md)
 - [Pricing](./pricing.md)
+- [Mac App Store distribution](./mac-app-store-distribution.md)
 - [Traffic](./traffic.md)
 - [Project source](../tecotype)
 - [Technical overview](../tecotype/README.md)

@@ -16,8 +16,9 @@ Three narrow pains passed the evidence gate. None produced an
 | Superhuman separates active accounts into tabs                    | Five cap-compliant authors plus Superhuman's official workaround; behavior includes repeated checking, missed mail, payment, cancellation, and switching | **Rejected:** 40 modeled US searches/month and modeled paid-search CAC above USD 4,200             |
 | Reply-aware follow-up                                             | Seven authors across five operated domains and four source types                                                                                         | **Rejected:** Spark Free already completes the job and no distinct same-user paid bridge was found |
 
-The current provider-placement lead is a separate channel hypothesis, not a
-confirmed pain. See [next-acquisition-funnel.md](next-acquisition-funnel.md).
+Provider and CRM-marketplace placement are separate channel hypotheses, not
+confirmed pains. Neither currently qualifies as acquisition. See
+[next-acquisition-funnel.md](next-acquisition-funnel.md).
 
 ## Classic Outlook omits a known locally present message
 
@@ -54,7 +55,7 @@ references:
 - expected purchases are only 0.18–0.32/month at full search capture; and
 - media CAC is approximately USD 208–375.
 
-That fails both the 10-new-paid/month capacity gate and the USD 50 CAC gate.
+That fails both the one-new-paid/week capacity gate and the USD 61 CAC gate.
 The pain is real; paid search is not a viable primary channel.
 
 Full evidence: [Outlook audit](tmp/pain-discovery/audit-msg-search.md).
@@ -128,5 +129,6 @@ Detailed observations and exclusions remain in:
 - [Second-pass ledger](tmp/pain-discovery-next/registry.md)
 - [Initial synthesis](tmp/pain-discovery/synthesis.md)
 
-DataForSEO task creation was the only external write. Enumerated spend was
-**USD 0.45176**; the conservative maximum is **USD 0.45376**.
+DataForSEO task creation was the only external write. Cumulative enumerated
+spend through the acquisition decision was **USD 0.48776**; the conservative
+maximum is **USD 0.48976**.

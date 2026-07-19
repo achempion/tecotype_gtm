@@ -11,10 +11,11 @@ Current decisions must use the concise
 
 - product usefulness, a backlink, or a marketplace listing cannot qualify a
   route;
-- one channel must credibly support 10 new paid users/month;
+- one channel must credibly support 100 attributable first-time paid customers
+  over an evidenced useful life, with roughly one/week as the planning pace;
 - current evidence from the same or a tightly matched audience must support the
   full-client paid bridge;
-- incremental CAC must remain below USD 50; and
+- incremental CAC must remain at or below USD 61; and
 - privacy and Tecotype's signed build, licensing, and updater are
   non-negotiable.
 

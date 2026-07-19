@@ -2,8 +2,11 @@
 
 Project source code: [tecotype](../tecotype)
 
-Current verdict: **provider placement is Parked; no route qualifies as an
-Experiment.**
+Current verdict: **Efficient App's editorial-affiliate route is Parked pending
+comparable first-time-paid conversion, unknown-brand reach, and partner
+acceptance. Tecotype can offer USD 50 per first-time annual customer within an
+approved working ceiling of USD 61 incremental CAC. It is the first route with
+plausible modeled capacity for 100 attributable first-time paid customers.**
 
 ## Acquisition
 
@@ -21,6 +24,7 @@ recommendations.
 
 - [Product](./product.md), [positioning](./positioning.md), and
   [pricing](./pricing.md)
+- [Mac App Store distribution, billing, and cross-platform entitlements](./mac-app-store-distribution.md)
 - [Feature requests](./feature-requests.md)
 - [Parked candidate notes](./experiments/README.md)
 - [Provider relationships and distribution](./distribution/partnerships.md)
