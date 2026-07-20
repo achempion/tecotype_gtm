@@ -14,6 +14,9 @@ plausible modeled capacity for 100 attributable first-time paid customers.**
   current route table and next fact request.
 - [Acquisition gate](./acquisition/readme.md): the only channel qualification
   method.
+- [Deal marketplaces](./deal-marketplaces.md): current merchant programs that
+  could promote a Tecotype offer, their economics, and the data needed before a
+  test.
 - [Confirmed pain evidence](./confirmed-pain-opportunities.md) and
   [traffic arithmetic](./traffic.md): supporting evidence, not decisions.
 

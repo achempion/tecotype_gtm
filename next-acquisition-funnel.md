@@ -6,7 +6,7 @@ unknown-brand reach, review-specific conversion, and partner acceptance remain
 unknown. Tecotype has approved a USD 50 first-time annual-customer commission
 within a USD 61 incremental-CAC ceiling.**
 
-Research date: 2026-07-19
+Research date: 2026-07-20
 
 ## Candidate funnel
 
@@ -112,10 +112,22 @@ or criticize Tecotype.
 | Route | Status | Decisive issue |
 | --- | --- | --- |
 | Efficient App editorial affiliate | **Parked** | Exact unknown-brand reach, review-specific conversion, and publisher acceptance are unknown. |
+| Secret SaaS deal | **Parked** | Its comparable Superhuman offer reports 95 redemptions, not first payments; exact reach, retention, fees, and partner acceptance are unknown. |
+| Dealify annual campaign | **Parked** | Annual offers and product-specific marketing are supported, but comparable paid volume, commission, renewal, and a standard direct-checkout path are unknown. |
+| BitsDuJour desktop promotion | **Parked** | It has an email-client category and direct vendor checkout, but exact comparable promotion results are unavailable and its 40%-off plus 50%-commission terms leave little CAC headroom. |
+| AppSumo annual campaign | **Parked** | It has sold a complete email client and can sell annual access, but the comparable offer was lifetime; exact performance, recurring-offer acceptance, economics, and checkout control are unknown. |
+| NachoNacho SaaS listing | **Parked** | The direct recurring model fits, but seller criteria expect a mature product and exact comparable demand, revenue share, and acceptance are unknown. |
+| StackCommerce publisher deal | **Parked** | Publisher distribution and a current Mailbird offer exist, but the visible offer is lifetime and exact units, annual renewal, placement cost, and checkout control are unknown. |
+| DealFuel annual deal | **Parked** | Annual offers and a 75/25 split are supported, but comparable full-client demand, exact campaign capacity, and a standard checkout path are unknown. |
+| Proven portfolio perk | **Parked** | Active portfolio promotion exists, but eligibility and pricing depend on established customer overlap; it cannot currently solve customer zero. |
+| Lifetime-deal marketplaces | **Rejected** | PitchGround Featured fails the CAC ceiling; SaaS Mantra, SaaSZilla, DealMirror, and BundleHunt conflict with the recurring standard product or price. |
 | Full-app download catalogs | **Parked** | Counters mix branded installs, updates, and re-downloads and show no payment path. |
 | CRM integration marketplaces | **Parked** | Install totals do not distinguish existing customers from net-new discovery. |
 | F6S startup-perk email deal | **Rejected** | Only 101 deal claims since 2016, not paid customers. |
 | Paid Outlook/Superhuman search | **Rejected** | Capacity and CAC both fail. |
+
+Supporting evidence and the common platform data request are in
+[Deal marketplaces for first customers](./deal-marketplaces.md).
 
 Research assumes launch-ready signed macOS, Windows, and Linux clients for GTM
 planning, as instructed. This is not a claim that all three are publicly
