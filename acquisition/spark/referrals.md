@@ -225,42 +225,71 @@ Long-running coverage is valuable because old reviews and launch reports
 continue to appear in branded searches. It is risky because they can describe
 obsolete prices, features, interfaces, and data flows.
 
-## Reviews and community counterevidence
+## Review sentiment, including former Superhuman users
 
-The public evidence is mixed.
+A non-Reddit scan from 18:33:37–18:43:37 CEST on 2026-07-20 deduplicated 4,172
+Apple review-feed entries for Spark's two apps across ten storefronts.
+Twenty-five reviews from 24 authors named Superhuman; 22 were from 2024 onward,
+and 22 rated Spark four or five stars. Across all reviewed sources, at least
+seven authors said they had used or paid for Superhuman.
 
-Positive themes across iOS, Android, Setapp, and selected discussion include:
+Competitor-naming reviewers are unusually likely to explain why Spark won, so
+this sample cannot estimate satisfaction. Wider surfaces remain mixed:
+[Product Hunt](https://www.producthunt.com/products/spark/reviews) shows 4.1/5
+from 70 reviews, [G2](https://www.g2.com/products/spark-for-teams/reviews)
+4.4/5 from 21, and a small complaint-selected
+[Trustpilot](https://www.trustpilot.com/review/sparkmailapp.com) corpus shows
+2.5/5 from 28.
 
-- visual polish;
-- Smart Inbox and sender grouping;
-- multi-account unified mail;
-- Set Aside and Priority;
-- integrations;
-- a tendency for some users to return after trying alternatives.
+### Why former Superhuman users choose Spark
 
-Selected current negative themes on Reddit, Setapp reviews, Trustpilot, and
-other discussion include:
+Unified control, not feature breadth in the abstract, leads:
 
-- slowness, freezing, and high resource use in Spark Desktop;
-- sending and synchronization failures;
-- missing or changed Spark Classic behavior;
-- perceived AI feature bloat;
-- subscription and price objections;
-- attachment and deletion concerns;
-- no Linux client.
+- one inbox across work, personal, client, Gmail, and IMAP accounts;
+- sender/domain grouping, Set Aside, Gatekeeper, smart categories, and
+  account colors;
+- cross-device access and integrations such as Notion and Todoist; and
+- an individual-friendly price.
 
-Trustpilot's visible corpus was small and self-selected, and Reddit threads
-are not representative samples. No overall Trustpilot score is used here.
-These sources can reveal failure modes and switch language, not population
-rates.
+Representative switchers include:
 
-The broader mobile and Setapp rating counts remain meaningful positive
-counterevidence. The right conclusion is not “Spark is unreliable” or “Spark
-is universally loved.” It is:
+- an October 2025 [App Store reviewer](https://apps.apple.com/us/app/spark-mail-ai-email-assistant/id997102246?see-all=reviews)
+  who left over Superhuman's price and direction, then praised Spark's provider
+  breadth, shortcuts, Set Aside, Gatekeeper, composer, and integrations;
+- a former year-long Superhuman user on
+  [Product Hunt](https://www.producthunt.com/products/spark/reviews) who stayed
+  with Spark for its cross-device experience; and
+- a self-employed [Software Advice](https://www.softwareadvice.co.nz/software/420578/spark)
+  reviewer who preferred Superhuman but chose Spark for value and unified mail.
 
-> Spark has substantial public satisfaction proof and a currently visible
-> desktop migration/performance risk that can affect both conversion and
-> retention.
+Several preferred Spark overall. Some found its keyboard support sufficient;
+the divide is flow consistency, not whether shortcuts exist.
+
+### What they miss, and what makes them return
+
+The complaints are concrete:
+
+- latency, freezing, and long-thread performance;
+- search, synchronization, or disappearing-message failures;
+- shortcuts and swipes that differ across desktop and mobile;
+- weaker labels, rules, templates, reminders, and natural-language dates;
+- missing one-click unsubscribe or read/open status;
+- unwanted AI emphasis and privacy concerns, also described in a
+  [former Superhuman user's essay](https://creativerly.com/the-future-of-email-is-ai/).
+
+One former user liked Spark's unified inbox but reported delays of up to ten
+seconds and inconsistent interactions. Another returned to Superhuman after
+search, sync, and shortcut failures. A third still missed open tracking,
+one-click unsubscribe, and spam handling. These reviews appear in Spark's public
+[mobile](https://apps.apple.com/us/app/spark-mail-ai-email-assistant/id997102246?see-all=reviews)
+and [desktop](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id6445813049?platform=mac&see-all=reviews)
+review feeds.
+
+> Spark wins through unified control, flexibility, and value. Superhuman wins
+> through dependable execution at speed.
+
+Price opens the door; trustworthy multi-account flow earns retention. Search,
+sync, or keyboard failures send demanding users back to Superhuman.
 
 ## Case studies and social proof
 

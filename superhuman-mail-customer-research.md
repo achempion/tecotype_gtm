@@ -3,6 +3,8 @@
 **Research date:** 20 July 2026  
 **Scope:** Superhuman Mail customers and users only. This report does not analyze the broader Superhuman parent-company suite except where packaging or acquisition affects Mail customers.  
 **Research clock:** 12:12:43–13:01:02 CEST (48 minutes 19 seconds)  
+**Supplemental Spark-switcher scan:** 18:33:37–18:43:37 CEST
+
 **Bottom line:** Public evidence suggests that Superhuman Mail's distinctive loyalty driver is not AI writing alone, but a fast, learned, low-friction control loop: the right message appears, opens instantly, can be understood and acted on without leaving the keyboard, and the next message appears predictably. The perceived emotional outcome is calm and control; the commercial job is faster response and fewer dropped follow-ups.
 
 ## Executive summary
@@ -125,6 +127,7 @@ The work combined:
 - iOS, Android, and browser-extension stores;
 - independent hands-on reviews and long-term-user essays;
 - Hacker News and Reddit discussions, including direct users seeking alternatives;
+- a supplemental non-Reddit review scan of former users who chose Spark;
 - DataForSEO content discovery, a search-results audit, and a separate backlink audit to identify missed review surfaces and first-person accounts;
 - direct browser inspection where public pages required interactive rendering.
 
@@ -937,6 +940,31 @@ Independent and community evidence reveals the switch bar:
 - A [Rands in Repose essay](https://randsinrepose.com/archives/i-hate-fish/) describes years of Inbox Zero through immediate act/delete/respond/schedule-later decisions and links “Superhuman rules” in a footnote explaining that scheduled-later mail leaves the inbox. It appears to describe a Superhuman-assisted control loop, reinforcing triage speed rather than an AI-first value story.
 
 Community evidence is invaluable for workflows but noisy. The Superhuman subreddit contains referral links, competitor founders, and promotional replies. Those posts were used to discover issues and direct-user narratives, never to calculate prevalence.
+
+#### Former users who chose Spark
+
+A 10-minute non-Reddit scan deduplicated 4,172 Spark App Store review-feed
+entries across ten storefronts. Twenty-five reviews from 24 authors named
+Superhuman; 22 rated Spark four or five stars. Across all reviewed sources, at
+least seven authors said they had used or paid for Superhuman. This
+competitor-naming cohort cannot estimate prevalence.
+
+The pattern corrects a simple “cheaper client with more conventional features”
+story. Former users stay for unified multi-provider control, cross-device
+access, sender grouping, Set Aside, Gatekeeper, smart categories, and
+integrations. Price often triggers the move, but workflow fit earns retention.
+Some call Spark's keyboard support sufficient.
+
+They return to Superhuman when Spark loses trust or breaks the learned flow:
+latency, long-thread friction, search or sync failures, disappearing messages,
+and inconsistent shortcuts. They also miss specific tools such as one-click
+unsubscribe, read/open status, labels and rules, reply-aware reminders,
+natural-language dates, and stronger templates. The detailed accounts and
+sources are in Spark's
+[review-sentiment audit](./acquisition/spark/referrals.md#review-sentiment-including-former-superhuman-users).
+
+Unified control can win the evaluation. Dependable speed and keyboard
+consistency decide whether the switch lasts.
 
 ### 7.4 What the rating contrast actually means
 

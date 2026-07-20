@@ -165,18 +165,24 @@ client.
 
 The smallest credible initial segment is:
 
-- desktop-dominant professionals on Mac initially;
-- Gmail plus Fastmail, iCloud, or another IMAP account;
-- two or more work/personal/client accounts;
-- high daily message volume and strong keyboard comfort;
-- recurring cross-account search or multilingual retrieval pain;
-- confidentiality sensitivity; and
+- a desktop-dominant independent professional;
+- two or more work, personal, or client accounts across Gmail and IMAP;
+- high message volume and strong keyboard comfort;
+- recurring cross-account organization or retrieval pain;
+- willingness to pay for dependable professional software; and
 - no hard dependence on Microsoft 365, mobile parity, CRM/ATS, delegation, or
   shared inboxes.
 
 Good roles include independent consultants, developers, technical founders and
 small-agency principals. “Founder” alone is too broad; the behavioral qualifiers
 matter more than the title.
+
+Recruit former Superhuman users who chose Spark for unified control but still
+dislike its latency, search/sync reliability, or shortcut inconsistency. They
+already value a premium keyboard workflow. Exclude price-only switchers, who
+may reject €149/year. Users who returned to Superhuman after a trust failure
+will require proof before switching again. See the
+[non-Reddit switcher audit](./acquisition/spark/referrals.md#review-sentiment-including-former-superhuman-users).
 
 The preview-pane wedge targets a subset of this ICP: people who repeatedly scan
 or monitor a long list and need to retain list position while reading. It is not
