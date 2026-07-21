@@ -133,13 +133,14 @@ links sit directly in the primary email loop.
 | AI summaries, drafting and mailbox Q&A         | Absent; local intelligence beyond Better search is future work.                                                                                        | Not required to win users who dislike AI bloat, but increasingly expected by Superhuman Business evaluators. Add only after core actions are reliable, source-linked, optional and reversible.          |
 | Delegation, collaboration and enterprise admin | Intentionally outside the current individual product.                                                                                                  | Tecotype cannot pursue EA/delegation, shared ownership, mid-market IT or enterprise procurement yet. This should remain a separate validated expansion rather than bloating Individual.                 |
 
-## Claim corrections needed now
+## Claim corrections identified at the pinned snapshot
 
-Two current product statements are ahead of the verified implementation:
+At the audited snapshot, two product statements were ahead of the verified
+implementation:
 
-1. `product.md` says **“Compose and reply workflows.”** Fresh compose/send exists;
+1. `product.md` said **“Compose and reply workflows.”** Fresh compose/send exists;
    a true reply workflow does not.
-2. `product.md` says **“Split-pane reading and composing workflows.”** Two-pane
+2. `product.md` said **“Split-pane reading and composing workflows.”** Two-pane
    composition exists; a normal persistent list-plus-reader flow is not wired.
 
 Keep the broader “implemented to varying levels of completeness” disclaimer, but

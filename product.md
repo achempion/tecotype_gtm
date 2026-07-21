@@ -122,7 +122,7 @@ way to continue later.
 - Inbox, Archive, Sent, Spam, Trash, and Reminders views.
 - Archive, restore, mark read or unread, move, delete, and spam actions.
 - Command palette for navigation and contextual actions.
-- Split-pane reading and composing workflows.
+- Split-pane composing workflows.
 
 ### Find mail
 
@@ -150,7 +150,7 @@ Find mail the way you remember it
 ### Write and send
 
 - Local drafts that are saved as the user works.
-- Compose and reply workflows.
+- Compose workflow. Reply is still in development.
 - Gmail and SMTP sending.
 - A durable local outbox for queued work.
 
